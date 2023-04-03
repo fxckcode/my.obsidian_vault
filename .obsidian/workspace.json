@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Facturación Electronica - Sección impuestos.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Facturación Electronica - Sección impuestos.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Facturación Electronica - Sección impuestos.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Facturación Electronica - Sección impuestos.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,11 +147,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7f087a26027a7f25",
+  "active": "c2d797b38134a54f",
   "lastOpenFiles": [
-    "Facturación Electronica - Sección impuestos.md",
-    "README.md",
     "Prueba.md",
+    "README.md",
+    "Facturación Electronica - Sección impuestos.md",
     "Facturación Electronica - Sección impuestos 1.md",
     "Facturación Electronica - Sección impuestos.md"
   ]
