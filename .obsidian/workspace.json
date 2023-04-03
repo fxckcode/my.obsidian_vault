@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "7ce6d1039d0b3269",
+    "type": "split",
+    "children": [
+      {
+        "id": "8def2a2cc3c87ebd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d16397c492ab586f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90ada07c6efe1208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prueba.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a876a95ce43d4d7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "16e2fc3578ca0eb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23e7e33f5a800790",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5feb93744f7c1b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f579223d8985d90e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc487b7d28ff6dd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba5577a072b382a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73067ef9354d46fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Prueba.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e842dbf04560980",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Prueba.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a7fa7f428ca27bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f388c4e71012c46c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Prueba.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "90ada07c6efe1208",
+  "lastOpenFiles": [
+    "README.md",
+    "Prueba.md",
+    "Untitled/dajdadjas.md",
+    "prueba.md",
+    "Untitled",
+    "Prueba vault obsidian.md",
+    "Notes laravel.md",
+    "Notes learn ReactJS.md",
+    "2022-10-26.md",
+    "Homeworks/Matematicas.md",
+    "Homeworks/Español.md",
+    "Work/Por hacer.md"
+  ]
+}
