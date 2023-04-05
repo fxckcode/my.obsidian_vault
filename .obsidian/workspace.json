@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes Laravel.md",
+                "file": "Laravel/Notes Laravel.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes Laravel.md",
+                "file": "Laravel/Notes Laravel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes Laravel.md",
+                "file": "Laravel/Notes Laravel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes Laravel.md"
+                "file": "Laravel/Notes Laravel.md"
               }
             }
           }
@@ -160,14 +160,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "90ada07c6efe1208",
+  "active": "23e7e33f5a800790",
   "lastOpenFiles": [
-    "Facturación Electronica - Sección impuestos.md",
+    "Laravel",
+    "Work",
+    "Work/Facturación Electronica - Sección impuestos.md",
     "README.md",
-    "Notes Laravel.md",
+    "Laravel/Notes Laravel.md",
     "Untitled/dajdadjas.md",
     "prueba.md",
-    "Untitled",
     "Prueba vault obsidian.md",
     "Notes laravel.md",
     "Notes learn ReactJS.md",
