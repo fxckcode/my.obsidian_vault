@@ -18,3 +18,4 @@ $table->foreign()->references()->on()
 bcrypt($data['password']) o bcrypt($request->password)
 ```
 
+Prueba
