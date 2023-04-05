@@ -17,3 +17,25 @@ $table->foreign()->references()->on()
 ```php
 bcrypt($data['password']) o bcrypt($request->password)
 ```
+
+
+## Crear un Seeder con datos falsos
+
+```php
+# ProductSeeder | Ejemplo
+
+public function run()
+{
+	DB::table('products')->insert([
+		'name' => 'Teléfono',
+		'description' => 'Mobile Phone Apple'
+	]);
+}
+
+# DatabaseSeeder
+public function run()
+{
+	$this->call([
+		ProductSeeder::class,
+	])
+}
