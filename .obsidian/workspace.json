@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a6626d6d5bf84d8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Laravel/Auth Controller.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fc487b7d28ff6dd3",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel/Notes Laravel.md",
+                "file": "Laravel/Auth Controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel/Notes Laravel.md",
+                "file": "Laravel/Auth Controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel/Notes Laravel.md"
+                "file": "Laravel/Auth Controller.md"
               }
             }
           }
@@ -160,13 +173,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "90ada07c6efe1208",
+  "active": "23e7e33f5a800790",
   "lastOpenFiles": [
+    "Laravel/Notes Laravel.md",
+    "Laravel/Auth Controller.md",
     "README.md",
     "Laravel",
     "Work",
     "Work/Facturación Electronica - Sección impuestos.md",
-    "Laravel/Notes Laravel.md",
     "Untitled/dajdadjas.md",
     "prueba.md",
     "Prueba vault obsidian.md",
