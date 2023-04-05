@@ -39,3 +39,9 @@ public function run()
 		ProductSeeder::class,
 	])
 }
+```
+
+Crear la migración
+ ```bash
+php artisan db:seed
+```
