@@ -4,6 +4,7 @@
 ```php
 use Validator;
 use App\Models\User;
+use Illuminate\Support\Facades\Hash;
 public function register(Request $request)
     {
         try {
