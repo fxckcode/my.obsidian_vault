@@ -36,3 +36,28 @@ public function register(Request $request)
 
     }
 ```
+
+## Modulo Login
+
+```php
+use Illuminate\Support\Facades\Auth;
+use App\Models\User;
+
+public function userLogin(Request $request)
+{
+	try {
+		if (!Auth::attempt($request->only('email', 'password'))) {
+		    return response()->json(['message' => "Invalid login"], 401);
+		}
+		$user = User::where('email', $request['email'])->firstOrFail();
+		$token = $user->createToken('auth_token')->plainTextToken;
+		$response = [
+			'role' => $user->role,
+		];
+		return response($response, 200);
+	} catch (\Exception $e) {
+		return response()->json(['message' => "Invalid login"], 401);
+	}
+}
+
+```
