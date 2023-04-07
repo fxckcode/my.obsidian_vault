@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee4a514b5422997c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fc487b7d28ff6dd3",
@@ -111,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel/Auth Controller.md",
+                "file": "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel/Auth Controller.md",
+                "file": "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel/Auth Controller.md"
+                "file": "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md"
               }
             }
           }
@@ -173,11 +184,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "23e7e33f5a800790",
+  "active": "ee4a514b5422997c",
   "lastOpenFiles": [
-    "Laravel/Notes Laravel.md",
     "Laravel/Auth Controller.md",
+    "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
+    "Laravel/Horarios SENA APP",
     "README.md",
+    "Laravel/Notes Laravel.md",
     "Laravel",
     "Work",
     "Work/Facturación Electronica - Sección impuestos.md",
