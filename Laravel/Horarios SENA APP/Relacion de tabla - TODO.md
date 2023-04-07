@@ -1,0 +1,5 @@
+- [x] Fichas -> programas
+- [ ] Personas -> fichas
+- [ ] Vinculación -> areas
+- [ ] ambientes -> municipios
+- [ ] horarios -> fichas , horarios->ambientes, horarios -> vinculacion
