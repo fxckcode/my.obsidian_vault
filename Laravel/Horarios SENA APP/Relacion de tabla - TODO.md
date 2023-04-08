@@ -1,9 +1,9 @@
 - [x] Fichas -> programas
-- [ ] Personas -> fichas
-- [ ] Personas -> instructor
-- [ ] Vinculación -> areas
+- [x] Personas -> fichas
+- [x] Vinculacion -> personas
+- [x] Vinculación -> areas
 - [x] ambientes -> municipios
 - [ ] horarios -> fichas , horarios->ambientes, horarios -> vinculacion
 
 ### Crear
-- [ ] Crear municipios
+- [x] Crear municipios
