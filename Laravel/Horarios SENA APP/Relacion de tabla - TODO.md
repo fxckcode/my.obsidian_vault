@@ -2,5 +2,8 @@
 - [ ] Personas -> fichas
 - [ ] Personas -> instructor
 - [ ] Vinculación -> areas
-- [ ] ambientes -> municipios
+- [x] ambientes -> municipios
 - [ ] horarios -> fichas , horarios->ambientes, horarios -> vinculacion
+
+### Crear
+- [ ] Crear municipios
