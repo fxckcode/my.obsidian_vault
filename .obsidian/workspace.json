@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fc487b7d28ff6dd3",
@@ -150,6 +149,7 @@
   },
   "active": "ee4a514b5422997c",
   "lastOpenFiles": [
+    "Laravel\\Horarios SENA APP",
     "Laravel/Auth Controller.md",
     "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
     "Laravel/Horarios SENA APP",
