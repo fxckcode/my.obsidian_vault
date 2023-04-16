@@ -45,3 +45,11 @@ Crear la migración
  ```bash
 php artisan db:seed
 ```
+
+
+## Poner en un prefijo de versión
+```php
+Route::group(['prefix => v1'], function() {
+	Route::apiResource('skills', Controller::class);
+});
+```
