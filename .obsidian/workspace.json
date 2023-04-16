@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
+                "file": "Laravel/Notes Laravel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
+                "file": "Laravel/Notes Laravel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
+                "file": "Laravel/Notes Laravel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md"
+                "file": "Laravel/Notes Laravel.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "ee4a514b5422997c",
   "lastOpenFiles": [
-    "Laravel\\Horarios SENA APP",
     "Laravel/Auth Controller.md",
     "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
+    "Laravel\\Horarios SENA APP",
     "Laravel/Horarios SENA APP",
     "README.md",
     "Laravel/Notes Laravel.md",
