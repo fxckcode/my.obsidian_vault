@@ -1,39 +1,52 @@
 {
   "main": {
-    "id": "7ce6d1039d0b3269",
+    "id": "f50b2d77fc639a79",
     "type": "split",
     "children": [
       {
-        "id": "8def2a2cc3c87ebd",
+        "id": "a7254e0cd119dbb1",
         "type": "tabs",
         "children": [
           {
-            "id": "ee4a514b5422997c",
+            "id": "7f087a26027a7f25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/Notes Laravel.md",
+                "file": "Work/Facturación Electronica - Sección impuestos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef138503d48ddc77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AJAXs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a876a95ce43d4d7c",
+    "id": "70b2faf2943b13f4",
     "type": "split",
     "children": [
       {
-        "id": "16e2fc3578ca0eb4",
+        "id": "27c4f2fa98d91403",
         "type": "tabs",
         "children": [
           {
-            "id": "23e7e33f5a800790",
+            "id": "c2d797b38134a54f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +56,7 @@
             }
           },
           {
-            "id": "f5feb93744f7c1b2",
+            "id": "de0b17abaa1d60ac",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +71,7 @@
             }
           },
           {
-            "id": "f579223d8985d90e",
+            "id": "fabd0b588502fa33",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,20 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "fc487b7d28ff6dd3",
+    "id": "802188035ccc029b",
     "type": "split",
     "children": [
       {
-        "id": "ba5577a072b382a5",
+        "id": "79eb7377ced16b6f",
         "type": "tabs",
         "children": [
           {
-            "id": "73067ef9354d46fc",
+            "id": "95cbbf2483142750",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel/Notes Laravel.md",
+                "file": "AJAXs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +110,19 @@
             }
           },
           {
-            "id": "1e842dbf04560980",
+            "id": "5ad340f221461330",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel/Notes Laravel.md",
+                "file": "AJAXs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9a7fa7f428ca27bb",
+            "id": "58cdac50268727ee",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +133,12 @@
             }
           },
           {
-            "id": "f388c4e71012c46c",
+            "id": "428da30ab3f23842",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel/Notes Laravel.md"
+                "file": "AJAXs.md"
               }
             }
           }
@@ -138,34 +151,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ee4a514b5422997c",
+  "active": "ef138503d48ddc77",
   "lastOpenFiles": [
-    "Laravel/Auth Controller.md",
-    "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
-    "Laravel\\Horarios SENA APP",
-    "Laravel/Horarios SENA APP",
-    "README.md",
-    "Laravel/Notes Laravel.md",
-    "Laravel",
-    "Work",
     "Work/Facturación Electronica - Sección impuestos.md",
-    "Untitled/dajdadjas.md",
-    "prueba.md",
-    "Prueba vault obsidian.md",
-    "Notes laravel.md",
-    "Notes learn ReactJS.md",
-    "2022-10-26.md",
-    "Homeworks/Matematicas.md",
-    "Homeworks/Español.md",
-    "Work/Por hacer.md"
+    "AJAXs.md",
+    "Facturación Electronica - Sección impuestos.md",
+    "Work",
+    "Laravel/Notes Laravel.md",
+    "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
+    "Laravel/Horarios SENA APP",
+    "Laravel/Auth Controller.md",
+    "Laravel",
+    "README.md",
+    "Prueba.md",
+    "Facturación Electronica - Sección impuestos 1.md"
   ]
 }
