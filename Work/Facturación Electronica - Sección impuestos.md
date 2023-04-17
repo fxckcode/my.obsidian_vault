@@ -7,7 +7,7 @@ Pendiente
 - [ ] Si el producto cuenta con retención, debe de seleccionarse automaticamente en el select de rete renta
 - [x] Por cada producto agregado, en el modal se difecien la base y los impuestos que esten arraigados al producto
 - [ ] Mostrar visualmente todos los impuestos en el recuadro
-
+- [x] Mostrar en el modal de seleccionar un producto el valor unitario con el impuesto ya aplicado
 # Facturación Electronica - Sección editar y crear producto
 Ya hechos
 - [x] Crear un modal diferente para facturación electronica para crear impuesto rápidamente en la sección de crear y editar impuestos
