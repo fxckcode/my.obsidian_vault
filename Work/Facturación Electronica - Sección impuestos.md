@@ -5,8 +5,8 @@ Ya hechos
 Pendiente
 - [ ] Cálculo de descuento (Error en `script-calculate-general-total.js línea 300`)
 - [ ] Si el producto cuenta con retención, debe de seleccionarse automaticamente en el select de rete renta
-- [ ] Valor reflejado de los impuestos creados en el modal
-- [ ] Por cada producto agregado, en el modal se difecien la base y los impuestos que esten arraigados al producto
+- [x] Por cada producto agregado, en el modal se difecien la base y los impuestos que esten arraigados al producto
+- [ ] Mostrar visualmente todos los impuestos en el recuadro
 
 # Facturación Electronica - Sección editar y crear producto
 Ya hechos
@@ -17,5 +17,5 @@ Ya hechos
 
 Pendientes
 - [x] Cuando se cree el producto automaticamente se cierre el modal
-- [ ] Que se recargue la página
-- [ ] Calcular correctamente el valor que se le descuenta al valor de venta si se le agrega el impuesto previamente creado
+- [x] Que se recargue la página
+- [x] Calcular correctamente el valor que se le descuenta al valor de venta si se le agrega el impuesto previamente creado
