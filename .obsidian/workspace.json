@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AJAXs.md",
+                "file": "Work/Facturación Electronica - Sección impuestos.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "802188035ccc029b",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AJAXs.md",
+                "file": "Work/Facturación Electronica - Sección impuestos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AJAXs.md",
+                "file": "Work/Facturación Electronica - Sección impuestos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AJAXs.md"
+                "file": "Work/Facturación Electronica - Sección impuestos.md"
               }
             }
           }
@@ -160,10 +161,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ef138503d48ddc77",
+  "active": "c2d797b38134a54f",
   "lastOpenFiles": [
-    "Work/Facturación Electronica - Sección impuestos.md",
     "AJAXs.md",
+    "Work/Facturación Electronica - Sección impuestos.md",
     "Facturación Electronica - Sección impuestos.md",
     "Work",
     "Laravel/Notes Laravel.md",
