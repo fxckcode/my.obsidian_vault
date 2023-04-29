@@ -1,4 +1,5 @@
 
+
 ## Migraciones
 
 ```php
@@ -7,7 +8,7 @@ $table->string() # Para poner titulos o frases cortas
 $table->text() # Para poner descripciones un poco mas largas
 
 $table->unsignedInteger() # Para crear una foreign Key
-$table->foreign()->references()->on() 
+$table->foreign()->references()->on()
 ```
 
 
@@ -19,10 +20,6 @@ bcrypt($data['password']) o bcrypt($request->password)
 
 
 ## Crear un Seeder con datos falsos
-
-```bash
-php artisan make:seeder ProductosSeeder
-```
 
 ```php
 # ProductSeeder | Ejemplo
@@ -56,7 +53,3 @@ Route::group(['prefix => v1'], function() {
 	Route::apiResource('skills', Controller::class);
 });
 ```
-
-
-enum
-aprendiz instructor coordinador
