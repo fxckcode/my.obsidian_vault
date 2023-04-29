@@ -68,3 +68,42 @@ $('.table-all-productos-into-billing').append("<tr idd='" + baseid + "' name='" 
     "<td>" + mostrarUocultar + "</td>" +  
     "</tr>");
 ```
+
+
+Serial algo como
+Diferencia de impuesto = 1597 * 2  = 3193
+8403 * 10 / 100  = 840 * 2 unidades = 1.680
+8403 * 2 unidades  = 16.806
+16.806 - 1680 = 15.126
+15.126 + 3193 = 18.319 total
+
+
+```javascript
+$(`#select_precios_fact_electronica_${productid}`).change(function() {
+    // Se activa cuando cambia el valor del elemento de selección de precios con un ID específico.
+    let precioUnitario  = parseFloat($(this).val()); // Obtiene el valor seleccionado y lo convierte en un número de punto flotante.
+    let descuento = $(this).closest('tr').find(`#inputDescuento_${productid}`).val(); // Obtiene el valor de un campo de entrada de descuento en la misma fila de la tabla.
+    let cantidad = $(this).closest('tr').find(`#txt_cantidad_into_list${productid}`).val(); // Obtiene el valor de un campo de entrada de cantidad en la misma fila de la tabla.
+    let calculoDescuento = precioUnitario * descuento / 100; // Calcula el descuento en función del precio unitario y el porcentaje de descuento.
+    
+    // Si el valor del impuesto en la fila de la tabla es mayor que cero, se realizan cálculos para el impuesto, incluyendo el tipo de impuesto (nominal o porcentual).
+    if ($(this).closest('tr').find(`#impuesto_cargo1_${productid}`).attr('value') > 0) {
+        let tarifaImpuesto = parseFloat($(this).closest('tr').find(`#impuesto_cargo1_${productid}`).attr('value')); // Obtiene el valor de la tarifa de impuesto en la misma fila de la tabla.
+        let tipoImpuesto = $(this).closest('tr').find(`#impuesto_cargo1_${productid}`).attr('tipo'); // Obtiene el tipo de impuesto en la misma fila de la tabla.
+        let newPrecioUnitario = precioUnitario - calculoDescuento; // Calcula el nuevo precio unitario después del descuento.
+        
+        // Si el tipo de impuesto es nominal, se establece la diferencia de impuesto en la tarifa de impuesto. Si es porcentual, se calcula la diferencia de impuesto en función del nuevo precio unitario y la tarifa de impuesto.
+        if (tipoImpuesto == 'nominal') {
+            newDifereciaImpuesto = (newPrecioUnitario == 0)? 0 : tarifaImpuesto; // Establece la diferencia de impuesto en la tarifa de impuesto si el nuevo precio unitario es cero.
+        } else if (tipoImpuesto == 'porcentual') {
+            newDifereciaImpuesto = newPrecioUnitario * tarifaImpuesto / 100; // Calcula la diferencia de impuesto en función del nuevo precio unitario y la tarifa de impuesto.
+        }
+        
+        // Calcula el nuevo total multiplicando el precio unitario ajustado y la cantidad, y actualiza el elemento de totalización en la misma fila de la tabla HTML.
+        let newTotal = (newPrecioUnitario + newDifereciaImpuesto) * cantidad;
+        $(this).closest('tr').find('#total').text(showAsFloat(newTotal));
+    } else {
+        // Si el valor del impuesto es cero, se calcula el nuevo total multiplicando el precio unitario ajustado y la cantidad, y se actualiza el elemento de totalización en la misma fila de la tabla HTML.
+        let newPrecioUnitario = precioUnitario - calculoDescuento; // Calcula el nuevo precio unitario después del descuento
+
+```
