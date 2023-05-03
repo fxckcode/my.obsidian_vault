@@ -1,31 +1,31 @@
 {
   "main": {
-    "id": "f50b2d77fc639a79",
+    "id": "eefe99543e2d14ce",
     "type": "split",
     "children": [
       {
-        "id": "a7254e0cd119dbb1",
+        "id": "5b78db139baf3157",
         "type": "tabs",
         "children": [
           {
-            "id": "7f087a26027a7f25",
+            "id": "f6d5b3384530feeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Facturación Electronica - Sección impuestos.md",
+                "file": "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ef138503d48ddc77",
+            "id": "dd871e9e5ec01f27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Facturación Electronica - Sección impuestos.md",
+                "file": "DATOS PROYECTO.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,15 +38,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "70b2faf2943b13f4",
+    "id": "4f7578720ba080ae",
     "type": "split",
     "children": [
       {
-        "id": "27c4f2fa98d91403",
+        "id": "66563de36d615292",
         "type": "tabs",
         "children": [
           {
-            "id": "c2d797b38134a54f",
+            "id": "0e89b11d6b6e07ca",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "de0b17abaa1d60ac",
+            "id": "43de47a18cdb4156",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "fabd0b588502fa33",
+            "id": "04b321f7adef444b",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -85,20 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "802188035ccc029b",
+    "id": "6d6e1ea599c93930",
     "type": "split",
     "children": [
       {
-        "id": "79eb7377ced16b6f",
+        "id": "235197e0bdca46fa",
         "type": "tabs",
         "children": [
           {
-            "id": "95cbbf2483142750",
+            "id": "761bbb318df6d582",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Facturación Electronica - Sección impuestos.md",
+                "file": "DATOS PROYECTO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +110,19 @@
             }
           },
           {
-            "id": "5ad340f221461330",
+            "id": "8f71fd41c632dc6f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Facturación Electronica - Sección impuestos.md",
+                "file": "DATOS PROYECTO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "58cdac50268727ee",
+            "id": "0394c5931b5ca8b9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +133,12 @@
             }
           },
           {
-            "id": "428da30ab3f23842",
+            "id": "10ac5558543a2612",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Facturación Electronica - Sección impuestos.md"
+                "file": "DATOS PROYECTO.md"
               }
             }
           }
@@ -160,19 +160,24 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ef138503d48ddc77",
+  "active": "dd871e9e5ec01f27",
   "lastOpenFiles": [
+    "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
+    "DATOS PROYECTO.md",
     "AJAXs.md",
+    "SQL Course/1. Sentencias DDL.md",
+    "SQL Course/Recursos y extensiones.md",
+    "SQL Course/2. Sentencias DML.md",
+    "Laravel/Notes Laravel.md",
+    "Laravel/Auth Controller.md",
     "Work/Facturación Electronica - Sección impuestos.md",
+    "README.md",
     "Facturación Electronica - Sección impuestos.md",
     "Work",
-    "Laravel/Notes Laravel.md",
-    "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
+    "SQL Course/0. Entorno.md",
+    "SQL Course",
     "Laravel/Horarios SENA APP",
-    "Laravel/Auth Controller.md",
-    "Laravel",
-    "README.md",
-    "Prueba.md",
-    "Facturación Electronica - Sección impuestos 1.md"
+    "Laravel\\Horarios SENA APP",
+    "Laravel"
   ]
 }
