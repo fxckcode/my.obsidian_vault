@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd871e9e5ec01f27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DATOS PROYECTO.md",
+                "file": "Laravel/Notes Laravel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DATOS PROYECTO.md",
+                "file": "Laravel/Notes Laravel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DATOS PROYECTO.md",
+                "file": "Laravel/Notes Laravel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DATOS PROYECTO.md"
+                "file": "Laravel/Notes Laravel.md"
               }
             }
           }
@@ -160,19 +147,19 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "dd871e9e5ec01f27",
+  "active": "f6d5b3384530feeb",
   "lastOpenFiles": [
-    "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
+    "Facturación Electronica - Sección impuestos.md",
     "DATOS PROYECTO.md",
-    "AJAXs.md",
     "SQL Course/1. Sentencias DDL.md",
     "SQL Course/Recursos y extensiones.md",
     "SQL Course/2. Sentencias DML.md",
     "Laravel/Notes Laravel.md",
+    "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
     "Laravel/Auth Controller.md",
     "Work/Facturación Electronica - Sección impuestos.md",
     "README.md",
-    "Facturación Electronica - Sección impuestos.md",
+    "AJAXs.md",
     "Work",
     "SQL Course/0. Entorno.md",
     "SQL Course",
