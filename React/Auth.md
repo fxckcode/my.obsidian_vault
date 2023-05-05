@@ -28,11 +28,7 @@ export const ContextProvider = ({children}) => {
       _setNotification('')
     }, 5000)
   }
-
-  
-
   return (
-
     <StateContext.Provider value={{ // Declara los valores que va a tener el context
       user,
       setUser,
@@ -45,5 +41,5 @@ export const ContextProvider = ({children}) => {
     </StateContext.Provider>
   );
 }
-export const useStateContext = () => useContext(StateContext); // export el contexto creado
+export const useStateContext = () => useContext(StateContext); // exporta el contexto creado
 ```
