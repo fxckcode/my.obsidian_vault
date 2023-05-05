@@ -43,3 +43,6 @@ export const ContextProvider = ({children}) => {
 }
 export const useStateContext = () => useContext(StateContext); // exporta el contexto creado
 ```
+
+Video:
+[Video Referencia](https://youtu.be/qJq9ZMB2Was)
