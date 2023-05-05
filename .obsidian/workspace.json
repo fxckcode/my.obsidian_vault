@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c473b6c725d3ded1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Auth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6d6e1ea599c93930",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/NOTES.md",
+                "file": "React/Auth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/NOTES.md",
+                "file": "React/Auth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/NOTES.md"
+                "file": "React/Auth.md"
               }
             }
           }
@@ -148,10 +160,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "02d78f048d6d2ce7",
+  "active": "c473b6c725d3ded1",
   "lastOpenFiles": [
-    "SQL Course/2. Sentencias DML.md",
     "React/NOTES.md",
+    "React/Auth.md",
+    "SQL Course/2. Sentencias DML.md",
     "React",
     "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
     "Laravel/Notes Laravel.md",
