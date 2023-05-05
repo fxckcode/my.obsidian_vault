@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/Notes Laravel.md",
+                "file": "SQL Course/2. Sentencias DML.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel/Notes Laravel.md",
+                "file": "SQL Course/2. Sentencias DML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel/Notes Laravel.md",
+                "file": "SQL Course/2. Sentencias DML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel/Notes Laravel.md"
+                "file": "SQL Course/2. Sentencias DML.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "f6d5b3384530feeb",
   "lastOpenFiles": [
-    "Facturación Electronica - Sección impuestos.md",
-    "DATOS PROYECTO.md",
-    "SQL Course/1. Sentencias DDL.md",
     "SQL Course/Recursos y extensiones.md",
+    "DATOS PROYECTO.md",
+    "Facturación Electronica - Sección impuestos.md",
     "SQL Course/2. Sentencias DML.md",
+    "SQL Course/1. Sentencias DDL.md",
     "Laravel/Notes Laravel.md",
     "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
     "Laravel/Auth Controller.md",
