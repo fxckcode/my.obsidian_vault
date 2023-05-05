@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f6d5b3384530feeb",
+            "id": "02d78f048d6d2ce7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL Course/2. Sentencias DML.md",
+                "file": "React/NOTES.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6d6e1ea599c93930",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Course/2. Sentencias DML.md",
+                "file": "React/NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Course/2. Sentencias DML.md",
+                "file": "React/NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Course/2. Sentencias DML.md"
+                "file": "React/NOTES.md"
               }
             }
           }
@@ -147,21 +148,23 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f6d5b3384530feeb",
+  "active": "02d78f048d6d2ce7",
   "lastOpenFiles": [
+    "SQL Course/2. Sentencias DML.md",
+    "React/NOTES.md",
+    "React",
+    "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
+    "Laravel/Notes Laravel.md",
+    "Laravel/Auth Controller.md",
+    "SQL Course/0. Entorno.md",
     "SQL Course/Recursos y extensiones.md",
     "DATOS PROYECTO.md",
     "Facturación Electronica - Sección impuestos.md",
-    "SQL Course/2. Sentencias DML.md",
     "SQL Course/1. Sentencias DDL.md",
-    "Laravel/Notes Laravel.md",
-    "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
-    "Laravel/Auth Controller.md",
     "Work/Facturación Electronica - Sección impuestos.md",
     "README.md",
     "AJAXs.md",
     "Work",
-    "SQL Course/0. Entorno.md",
     "SQL Course",
     "Laravel/Horarios SENA APP",
     "Laravel\\Horarios SENA APP",
