@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "02d78f048d6d2ce7",
+            "id": "f6d5b3384530feeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/NOTES.md",
+                "file": "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c473b6c725d3ded1",
+            "id": "dd871e9e5ec01f27",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,13 +77,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "b9b0db0d77290a6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6d6e1ea599c93930",
@@ -161,24 +168,24 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c473b6c725d3ded1",
+  "active": "dd871e9e5ec01f27",
   "lastOpenFiles": [
     "React/NOTES.md",
+    "DATOS PROYECTO.md",
     "React/Auth.md",
-    "SQL Course/2. Sentencias DML.md",
     "React",
     "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
+    "AJAXs.md",
+    "SQL Course/1. Sentencias DDL.md",
+    "SQL Course/Recursos y extensiones.md",
+    "SQL Course/2. Sentencias DML.md",
     "Laravel/Notes Laravel.md",
     "Laravel/Auth Controller.md",
-    "SQL Course/0. Entorno.md",
-    "SQL Course/Recursos y extensiones.md",
-    "DATOS PROYECTO.md",
-    "Facturación Electronica - Sección impuestos.md",
-    "SQL Course/1. Sentencias DDL.md",
     "Work/Facturación Electronica - Sección impuestos.md",
     "README.md",
-    "AJAXs.md",
+    "Facturación Electronica - Sección impuestos.md",
     "Work",
+    "SQL Course/0. Entorno.md",
     "SQL Course",
     "Laravel/Horarios SENA APP",
     "Laravel\\Horarios SENA APP",
