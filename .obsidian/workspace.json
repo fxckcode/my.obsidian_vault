@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Auth.md",
+                "file": "React/NOTES.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Auth.md",
+                "file": "React/NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Auth.md",
+                "file": "React/NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Auth.md"
+                "file": "React/NOTES.md"
               }
             }
           }
@@ -170,9 +170,9 @@
   },
   "active": "dd871e9e5ec01f27",
   "lastOpenFiles": [
+    "React/Auth.md",
     "React/NOTES.md",
     "DATOS PROYECTO.md",
-    "React/Auth.md",
     "React",
     "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
     "AJAXs.md",
