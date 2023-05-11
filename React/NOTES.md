@@ -41,6 +41,9 @@ return (
 )
 ```
 
+### UseReducer
+Hook encargardo de cambiar el estado como un useState pero con la diferencia de que implementa una cabezera o  `type:{}` la cual sirve para hacer diferentes acciones en a la hora de usar un formulario.
+
 Abstract API
 1908d62f010349bc9fb7fa92c76f8331
 https://app.abstractapi.com/api/timezone/documentation
