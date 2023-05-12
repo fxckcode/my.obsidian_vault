@@ -73,7 +73,7 @@ axiosClient.interceptors.response.use((response) => {
   }
   throw error;
 })
-export default axiosClient
+export default axiosClient // Exporta por defecto la variable para luego ser utilizada en cualquier component
 ```
 
 Abstract API
