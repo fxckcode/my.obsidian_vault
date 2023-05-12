@@ -59,7 +59,7 @@ axiosClient.interceptors.request.use((config) => {
   const token = localStorage.getItem('ACCESS_TOKEN');
   config.headers.Authorization = `Bearer ${token}`
   return config;
-}) // Declara como configuración por defecto la estracción del token para luego ser mandado como cabecera
+}) // Declara como configuración por defecto la estracción del token para luego ser mandado como cabecera en cualquier petición
 
 axiosClient.interceptors.response.use((response) => {
   return response // Declara la comprobación del token el cual espera una respuesta si en el caso el token no sea el correcto remueve el supuesto token del localStorage para que cierre sesión automaticamente
