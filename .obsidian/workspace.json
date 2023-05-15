@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/Cors.md",
+                "file": "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel/Cors.md",
+                "file": "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel/Cors.md",
+                "file": "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel/Cors.md"
+                "file": "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md"
               }
             }
           }
@@ -182,12 +182,12 @@
   },
   "active": "a1772f84b6298b3b",
   "lastOpenFiles": [
-    "React/Auth.md",
     "Laravel/Cors.md",
     "Laravel/Notes Laravel.md",
-    "React/NOTES.md",
     "Laravel/Auth Controller.md",
     "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
+    "React/Auth.md",
+    "React/NOTES.md",
     "DATOS PROYECTO.md",
     "React",
     "AJAXs.md",
