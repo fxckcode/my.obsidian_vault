@@ -42,7 +42,7 @@ return (
 ```
 
 ### UseReducer
-Hook encargardo de cambiar el estado como un useState pero con la diferencia de que implementa una cabezera o  `type:{}` la cual sirve para hacer diferentes acciones en a la hora de usar un formulario.
+Hook encargardo de cambiar el estado como un useState pero con la diferencia de que implementa una cabezera o  `type:{}` la cual sirve para hacer diferentes acciones en a la hora de usar un formulario dependiendo de la cabecera, esto es util cuando se quiere usar el mismo para varios propositos sin tener que crear componentes diferentes. 
 
 ### AxiosClient
 Configuración que permite mandar el Bearer `token` por defecto y así permitir autenticarse siempre que se haga una petición, código:
