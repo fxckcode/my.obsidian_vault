@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/Auth Controller.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80d9cb8a16e4c5d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Laravel/Return unauthorized.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1772f84b6298b3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Facturación Electronica - Sección impuestos.md",
+                "file": "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Auth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1435fdc19b9660cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Laravel/Cors.md",
+                "file": "React/NOTES.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel/Return unauthorized.md",
+                "file": "React/NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel/Return unauthorized.md",
+                "file": "React/NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel/Return unauthorized.md"
+                "file": "React/NOTES.md"
               }
             }
           }
@@ -204,29 +168,29 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "80d9cb8a16e4c5d3",
+  "active": "dd871e9e5ec01f27",
   "lastOpenFiles": [
-    "Laravel\\CRUD",
-    "Laravel/Auth Controller.md",
-    "Laravel/Return unauthorized.md",
-    "Laravel/Cors.md",
-    "Laravel/Notes Laravel.md",
-    "Work/Facturación Electronica - Sección impuestos.md",
-    "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
-    "Laravel/CRUD/index().md",
     "React/Auth.md",
-    "Laravel/CRUD",
+    "Laravel/Return unauthorized.md",
+    "Laravel/Notes Laravel.md",
+    "Laravel/Cors.md",
+    "Laravel/Auth Controller.md",
+    "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
     "React/NOTES.md",
-    "SQL Course/0. Entorno.md",
-    "SQL Course/2. Sentencias DML.md",
-    "SQL Course/Recursos y extensiones.md",
+    "Laravel/CRUD/index().md",
+    "Laravel/CRUD",
+    "Laravel\\CRUD",
     "DATOS PROYECTO.md",
     "React",
     "AJAXs.md",
     "SQL Course/1. Sentencias DDL.md",
+    "SQL Course/Recursos y extensiones.md",
+    "SQL Course/2. Sentencias DML.md",
+    "Work/Facturación Electronica - Sección impuestos.md",
     "README.md",
     "Facturación Electronica - Sección impuestos.md",
     "Work",
+    "SQL Course/0. Entorno.md",
     "SQL Course",
     "Laravel/Horarios SENA APP",
     "Laravel\\Horarios SENA APP",
