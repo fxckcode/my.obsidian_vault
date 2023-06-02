@@ -80,5 +80,4 @@ Abstract API
 1908d62f010349bc9fb7fa92c76f8331
 https://app.abstractapi.com/api/timezone/documentation
 https://stefantopalovicdev.vercel.app/
-Portfolio tailwind react
 https://github.com/realstoman/react-tailwindcss-portfolio
