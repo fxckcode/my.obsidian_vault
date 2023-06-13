@@ -13,14 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
+                "file": "Laravel/Auth Controller.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dd871e9e5ec01f27",
+            "id": "80d9cb8a16e4c5d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,48 @@
             }
           },
           {
-            "id": "fbd736d3c28ec38a",
+            "id": "c626e3b8b5eab81c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/4. Manipulación de archivos y procesamiento de texto.md",
+                "file": "PARA INSTALAR COD - LEER.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1772f84b6298b3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Facturación Electronica - Sección impuestos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd871e9e5ec01f27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Auth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1435fdc19b9660cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Laravel/Cors.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/4. Manipulación de archivos y procesamiento de texto.md",
+                "file": "PARA INSTALAR COD - LEER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/4. Manipulación de archivos y procesamiento de texto.md",
+                "file": "PARA INSTALAR COD - LEER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/4. Manipulación de archivos y procesamiento de texto.md"
+                "file": "PARA INSTALAR COD - LEER.md"
               }
             }
           }
@@ -180,38 +216,38 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "fbd736d3c28ec38a",
+  "active": "c626e3b8b5eab81c",
   "lastOpenFiles": [
-    "Python/5. Programación funcional.md",
-    "Python/7. Bases de datos.md",
-    "Python/10. Desarrollo avanzado.md",
-    "Python/9. Procesamiento y visualización de datos.md",
-    "Python/8. Programación web.md",
-    "Python/6. Manejo de excepciones y pruebas.md",
+    "Python/1. Fundamentos.md",
+    "PARA INSTALAR COD - LEER.md",
     "Python/4. Manipulación de archivos y procesamiento de texto.md",
     "Python/3. Estructura de datos avanzadas.md",
-    "Python/1. Fundamentos.md",
     "Python/2. Programación orientada a objetos (POO).md",
-    "DATOS PROYECTO.md",
-    "React/NOTES.md",
-    "Python",
-    "React/Auth.md",
     "Laravel/Return unauthorized.md",
-    "Laravel/Notes Laravel.md",
-    "Laravel/Cors.md",
-    "Laravel/Auth Controller.md",
-    "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
-    "Laravel/CRUD/index().md",
-    "Laravel/CRUD",
-    "Laravel\\CRUD",
-    "React",
-    "Work/AJAXs.md",
-    "SQL Course/1. Sentencias DDL.md",
-    "SQL Course/Recursos y extensiones.md",
-    "SQL Course/2. Sentencias DML.md",
-    "Work/Facturación Electronica - Sección impuestos.md",
-    "README.md",
     "Work/Facturación Electronica - Sección impuestos 1.md",
+    "Work/AJAXs.md",
+    "Python/9. Procesamiento y visualización de datos.md",
+    "Python/8. Programación web.md",
+    "Python/7. Bases de datos.md",
+    "Python/6. Manejo de excepciones y pruebas.md",
+    "Python/5. Programación funcional.md",
+    "Python/10. Desarrollo avanzado.md",
+    "Python",
+    "Laravel/Notes Laravel.md",
+    "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
+    "Laravel\\CRUD",
+    "Laravel/Auth Controller.md",
+    "Laravel/Cors.md",
+    "Work/Facturación Electronica - Sección impuestos.md",
+    "Laravel/CRUD/index().md",
+    "React/Auth.md",
+    "Laravel/CRUD",
+    "React/NOTES.md",
+    "SQL Course/0. Entorno.md",
+    "SQL Course/2. Sentencias DML.md",
+    "SQL Course/Recursos y extensiones.md",
+    "DATOS PROYECTO.md",
+    "React",
     "Work",
     "SQL Course",
     "Laravel/Horarios SENA APP",
