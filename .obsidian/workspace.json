@@ -1,100 +1,52 @@
 {
   "main": {
-    "id": "eefe99543e2d14ce",
+    "id": "25a561932f860f6e",
     "type": "split",
     "children": [
       {
-        "id": "5b78db139baf3157",
+        "id": "b1f55484d7e16d8f",
         "type": "tabs",
         "children": [
           {
-            "id": "f6d5b3384530feeb",
+            "id": "d25acc4ed06c38e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/Auth Controller.md",
+                "file": "React/NOTES.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "80d9cb8a16e4c5d3",
+            "id": "b9c1511ed24e3e4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/1. Fundamentos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c626e3b8b5eab81c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PARA INSTALAR COD - LEER.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1772f84b6298b3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Facturación Electronica - Sección impuestos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd871e9e5ec01f27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/Auth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1435fdc19b9660cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Laravel/Cors.md",
+                "file": "CV.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4f7578720ba080ae",
+    "id": "e6e199b5d55da87c",
     "type": "split",
     "children": [
       {
-        "id": "66563de36d615292",
+        "id": "927de6b76452e812",
         "type": "tabs",
         "children": [
           {
-            "id": "0e89b11d6b6e07ca",
+            "id": "1a3bc766a9ed97e6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -104,7 +56,7 @@
             }
           },
           {
-            "id": "43de47a18cdb4156",
+            "id": "28940a501d3e5d1a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -119,7 +71,7 @@
             }
           },
           {
-            "id": "04b321f7adef444b",
+            "id": "c594fd5209eee8c5",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -127,7 +79,7 @@
             }
           },
           {
-            "id": "b9b0db0d77290a6f",
+            "id": "f1c57092566096b4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -141,20 +93,20 @@
     "width": 300
   },
   "right": {
-    "id": "6d6e1ea599c93930",
+    "id": "0f901535086dba53",
     "type": "split",
     "children": [
       {
-        "id": "235197e0bdca46fa",
+        "id": "4e9d88b14137597c",
         "type": "tabs",
         "children": [
           {
-            "id": "761bbb318df6d582",
+            "id": "ab73dc3861cac0fa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PARA INSTALAR COD - LEER.md",
+                "file": "CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,19 +118,19 @@
             }
           },
           {
-            "id": "8f71fd41c632dc6f",
+            "id": "02dff1e54554f331",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PARA INSTALAR COD - LEER.md",
+                "file": "CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0394c5931b5ca8b9",
+            "id": "f7c9cc39458be353",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -189,12 +141,12 @@
             }
           },
           {
-            "id": "10ac5558543a2612",
+            "id": "f97c6c171d999a4b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "PARA INSTALAR COD - LEER.md"
+                "file": "CV.md"
               }
             }
           }
@@ -216,14 +168,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c626e3b8b5eab81c",
+  "active": "b9c1511ed24e3e4a",
   "lastOpenFiles": [
-    "Python/1. Fundamentos.md",
-    "PARA INSTALAR COD - LEER.md",
-    "Python/4. Manipulación de archivos y procesamiento de texto.md",
-    "Python/3. Estructura de datos avanzadas.md",
-    "Python/2. Programación orientada a objetos (POO).md",
-    "Laravel/Return unauthorized.md",
+    "React/NOTES.md",
+    "CV.md",
     "Work/Facturación Electronica - Sección impuestos 1.md",
     "Work/AJAXs.md",
     "Python/9. Procesamiento y visualización de datos.md",
@@ -231,27 +179,29 @@
     "Python/7. Bases de datos.md",
     "Python/6. Manejo de excepciones y pruebas.md",
     "Python/5. Programación funcional.md",
+    "Python/4. Manipulación de archivos y procesamiento de texto.md",
+    "Python/3. Estructura de datos avanzadas.md",
+    "Python/2. Programación orientada a objetos (POO).md",
     "Python/10. Desarrollo avanzado.md",
+    "Python/1. Fundamentos.md",
     "Python",
-    "Laravel/Notes Laravel.md",
-    "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
-    "Laravel\\CRUD",
-    "Laravel/Auth Controller.md",
+    "PARA INSTALAR COD - LEER.md",
+    "Laravel/Return unauthorized.md",
     "Laravel/Cors.md",
-    "Work/Facturación Electronica - Sección impuestos.md",
     "Laravel/CRUD/index().md",
-    "React/Auth.md",
     "Laravel/CRUD",
-    "React/NOTES.md",
-    "SQL Course/0. Entorno.md",
-    "SQL Course/2. Sentencias DML.md",
     "SQL Course/Recursos y extensiones.md",
-    "DATOS PROYECTO.md",
-    "React",
-    "Work",
+    "SQL Course/2. Sentencias DML.md",
+    "SQL Course/1. Sentencias DDL.md",
+    "SQL Course/0. Entorno.md",
     "SQL Course",
+    "React/Auth.md",
+    "React",
+    "DATOS PROYECTO.md",
+    "Work/Facturación Electronica - Sección impuestos.md",
+    "Work",
+    "README.md",
     "Laravel/Horarios SENA APP",
-    "Laravel\\Horarios SENA APP",
     "Laravel"
   ]
 }
