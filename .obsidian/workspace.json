@@ -1,26 +1,38 @@
 {
   "main": {
-    "id": "25a561932f860f6e",
+    "id": "eefe99543e2d14ce",
     "type": "split",
     "children": [
       {
-        "id": "b1f55484d7e16d8f",
+        "id": "5b78db139baf3157",
         "type": "tabs",
         "children": [
           {
-            "id": "d25acc4ed06c38e5",
+            "id": "f6d5b3384530feeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/NOTES.md",
+                "file": "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b9c1511ed24e3e4a",
+            "id": "dd871e9e5ec01f27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/1. Fundamentos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbd736d3c28ec38a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,21 +44,21 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e6e199b5d55da87c",
+    "id": "4f7578720ba080ae",
     "type": "split",
     "children": [
       {
-        "id": "927de6b76452e812",
+        "id": "66563de36d615292",
         "type": "tabs",
         "children": [
           {
-            "id": "1a3bc766a9ed97e6",
+            "id": "0e89b11d6b6e07ca",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +68,7 @@
             }
           },
           {
-            "id": "28940a501d3e5d1a",
+            "id": "43de47a18cdb4156",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +83,7 @@
             }
           },
           {
-            "id": "c594fd5209eee8c5",
+            "id": "04b321f7adef444b",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -79,7 +91,7 @@
             }
           },
           {
-            "id": "f1c57092566096b4",
+            "id": "b9b0db0d77290a6f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,15 +105,15 @@
     "width": 300
   },
   "right": {
-    "id": "0f901535086dba53",
+    "id": "6d6e1ea599c93930",
     "type": "split",
     "children": [
       {
-        "id": "4e9d88b14137597c",
+        "id": "235197e0bdca46fa",
         "type": "tabs",
         "children": [
           {
-            "id": "ab73dc3861cac0fa",
+            "id": "761bbb318df6d582",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -118,7 +130,7 @@
             }
           },
           {
-            "id": "02dff1e54554f331",
+            "id": "8f71fd41c632dc6f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -130,7 +142,7 @@
             }
           },
           {
-            "id": "f7c9cc39458be353",
+            "id": "0394c5931b5ca8b9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,7 +153,7 @@
             }
           },
           {
-            "id": "f97c6c171d999a4b",
+            "id": "10ac5558543a2612",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -168,41 +180,43 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b9c1511ed24e3e4a",
+  "active": "fbd736d3c28ec38a",
   "lastOpenFiles": [
-    "New template - Software Engineering Lead 1.docx",
+    "CV.pdf",
+    "~$w template - Software Engineering Lead 1.docx",
+    "Python/4. Manipulación de archivos y procesamiento de texto.md",
+    "PARA INSTALAR COD - LEER.md",
     "New template - Software Engineering Lead.docx",
-    "React/NOTES.md",
+    "New template - Software Engineering Lead 1.docx",
+    "Facturación Electronica - Sección impuestos.md",
+    "DATOS PROYECTO.md",
     "CV.md",
-    "Work/Facturación Electronica - Sección impuestos 1.md",
-    "Work/AJAXs.md",
+    "AJAXs.md",
+    "Python/5. Programación funcional.md",
+    "Python/7. Bases de datos.md",
+    "Python/10. Desarrollo avanzado.md",
     "Python/9. Procesamiento y visualización de datos.md",
     "Python/8. Programación web.md",
-    "Python/7. Bases de datos.md",
     "Python/6. Manejo de excepciones y pruebas.md",
-    "Python/5. Programación funcional.md",
-    "Python/4. Manipulación de archivos y procesamiento de texto.md",
     "Python/3. Estructura de datos avanzadas.md",
-    "Python/2. Programación orientada a objetos (POO).md",
-    "Python/10. Desarrollo avanzado.md",
     "Python/1. Fundamentos.md",
+    "Python/2. Programación orientada a objetos (POO).md",
+    "React/NOTES.md",
     "Python",
-    "PARA INSTALAR COD - LEER.md",
+    "React/Auth.md",
     "Laravel/Return unauthorized.md",
+    "Laravel/Notes Laravel.md",
     "Laravel/Cors.md",
+    "Laravel/Auth Controller.md",
+    "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
     "Laravel/CRUD/index().md",
     "Laravel/CRUD",
-    "SQL Course/Recursos y extensiones.md",
-    "SQL Course/2. Sentencias DML.md",
-    "SQL Course/1. Sentencias DDL.md",
-    "SQL Course/0. Entorno.md",
-    "SQL Course",
-    "React/Auth.md",
+    "Laravel\\CRUD",
     "React",
-    "DATOS PROYECTO.md",
-    "Work/Facturación Electronica - Sección impuestos.md",
+    "Work/AJAXs.md",
+    "SQL Course/1. Sentencias DDL.md",
     "Work",
-    "Laravel/Horarios SENA APP",
-    "Laravel"
+    "SQL Course",
+    "Laravel/Horarios SENA APP"
   ]
 }
