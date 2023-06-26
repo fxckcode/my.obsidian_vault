@@ -30,7 +30,12 @@ public function all($sql) # Funcion para solo validar verdadero o falso la const
 
 - Consultas básicas
 ```SQL
+-- Sin JOIN
 SELECT * FROM <TABLA>
+
+-- Con JOIN
+SELECT <LO QUE SE QUIERA MOSTRAR> FROM <TABLA> <PREFIJO> JOIN <TABLA EXTERNA> ON <CONDICION>
+
 INSERT INTO <TABLA>(CAMPOS) VALUES (DATA)
 UPDATE <TABLA> SET (DATA) WHERE CONDICION
 DELETE FROM <TABLA> WHERE CONDICION
