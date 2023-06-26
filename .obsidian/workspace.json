@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b78db139baf3157",
+        "id": "87ec5d83e90b3a48",
         "type": "tabs",
         "children": [
           {
-            "id": "ddfa490e1d6391e1",
+            "id": "ba0f6c5edbf0eed3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,10 +155,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ddfa490e1d6391e1",
+  "active": "0e89b11d6b6e07ca",
   "lastOpenFiles": [
-    "Laravel/Cors.md",
+    "React/Auth.md",
     "PHP/A Tener en Cuenta.md",
+    "Laravel/Cors.md",
     "CV.pdf",
     "PHP",
     "CV.md",
@@ -185,7 +186,6 @@
     "Laravel/Notes Laravel.md",
     "Laravel\\CRUD",
     "Work/Facturación Electronica - Sección impuestos.md",
-    "React/Auth.md",
     "Laravel/CRUD",
     "React/NOTES.md",
     "SQL Course/0. Entorno.md",
