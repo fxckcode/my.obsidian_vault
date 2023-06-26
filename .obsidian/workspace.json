@@ -8,40 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f6d5b3384530feeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Laravel/Auth Controller.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80d9cb8a16e4c5d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/1. Fundamentos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c626e3b8b5eab81c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CV.pdf"
-              }
-            }
-          },
-          {
             "id": "ddfa490e1d6391e1",
             "type": "leaf",
             "state": {
@@ -52,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a1772f84b6298b3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/Facturación Electronica - Sección impuestos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd871e9e5ec01f27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/Auth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1435fdc19b9660cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Laravel/Cors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,8 +157,9 @@
   },
   "active": "ddfa490e1d6391e1",
   "lastOpenFiles": [
-    "CV.pdf",
+    "Laravel/Cors.md",
     "PHP/A Tener en Cuenta.md",
+    "CV.pdf",
     "PHP",
     "CV.md",
     "Python/1. Fundamentos.md",
@@ -254,7 +184,6 @@
     "Python",
     "Laravel/Notes Laravel.md",
     "Laravel\\CRUD",
-    "Laravel/Cors.md",
     "Work/Facturación Electronica - Sección impuestos.md",
     "React/Auth.md",
     "Laravel/CRUD",
