@@ -17,7 +17,7 @@ public function mostrarPersonalizado($sql)
 	return $resultado->fetchAll(PDO::FETCH_ASSOC);
 }
 
-public function all($sql) 
+public function all($sql) # Funcion para solo validar verdadero o falso la construcción de la consulta, como eliminar, actualizar y autenticar 
 {
 	$resultado = $this->db->query($sql);
 	if ($resultado) {
