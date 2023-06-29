@@ -11,12 +11,8 @@
             "id": "ba0f6c5edbf0eed3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHP/A Tener en Cuenta.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/A Tener en Cuenta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHP/A Tener en Cuenta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PHP/A Tener en Cuenta.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,42 +147,42 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0e89b11d6b6e07ca",
+  "active": "ba0f6c5edbf0eed3",
   "lastOpenFiles": [
+    "DATOS PROYECTO.md",
+    "React/NOTES.md",
     "React/Auth.md",
+    "Python/1. Fundamentos.md",
     "PHP/A Tener en Cuenta.md",
+    "Laravel/Notes Laravel.md",
+    "Untitled",
+    "Laravel/Return unauthorized.md",
+    "Python/2. Programación orientada a objetos (POO).md",
+    "Python/3. Estructura de datos avanzadas.md",
+    "SQL Course/0. Entorno.md",
+    "SQL Course/1. Sentencias DDL.md",
+    "SQL Course/2. Sentencias DML.md",
+    "SQL Course/Recursos y extensiones.md",
     "Laravel/Cors.md",
+    "Laravel/Auth Controller.md",
+    "AJAXs.md",
+    "Facturación Electronica - Sección impuestos.md",
+    "PARA INSTALAR COD - LEER.md",
+    "README.md",
     "CV.pdf",
     "PHP",
     "CV.md",
-    "Python/1. Fundamentos.md",
     "New template - Software Engineering Lead.docx",
     "New template - Software Engineering Lead 1.docx",
-    "Laravel/Auth Controller.md",
     "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
     "Laravel/CRUD/index().md",
     "Python/6. Manejo de excepciones y pruebas.md",
     "Python/5. Programación funcional.md",
     "Python/4. Manipulación de archivos y procesamiento de texto.md",
-    "Python/3. Estructura de datos avanzadas.md",
-    "Python/2. Programación orientada a objetos (POO).md",
-    "PARA INSTALAR COD - LEER.md",
-    "Laravel/Return unauthorized.md",
-    "Work/Facturación Electronica - Sección impuestos 1.md",
-    "Work/AJAXs.md",
-    "Python/9. Procesamiento y visualización de datos.md",
-    "Python/8. Programación web.md",
-    "Python/7. Bases de datos.md",
-    "Python/10. Desarrollo avanzado.md",
     "Python",
-    "Laravel/Notes Laravel.md",
     "Laravel\\CRUD",
-    "Work/Facturación Electronica - Sección impuestos.md",
     "Laravel/CRUD",
-    "React/NOTES.md",
-    "SQL Course/0. Entorno.md",
     "React",
-    "Work",
-    "SQL Course"
+    "Work"
   ]
 }
