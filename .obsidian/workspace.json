@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Books/[PD] Libros - 48 leyes del Poder.pdf"
+                "file": "Books/El Kybalion.pdf"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/[PD] Libros - 48 leyes del Poder.pdf",
+                "file": "Books/El Kybalion.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/[PD] Libros - 48 leyes del Poder.pdf",
+                "file": "Books/El Kybalion.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/[PD] Libros - 48 leyes del Poder.pdf"
+                "file": "Books/El Kybalion.pdf"
               }
             }
           }
@@ -153,13 +153,22 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "dd871e9e5ec01f27",
+  "active": "0e89b11d6b6e07ca",
   "lastOpenFiles": [
-    "Books/ElKybaliontresIniciados.pdf",
-    "Books/[PD] Libros - 48 leyes del Poder.pdf",
-    "Python/1. Fundamentos.md",
-    "2023-07-06.md",
     "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
+    "Laravel/Cors.md",
+    "React/NOTES.md",
+    "Laravel/Notes Laravel.md",
+    "Laravel/Return unauthorized.md",
+    "Python/2. Programación orientada a objetos (POO).md",
+    "Python/3. Estructura de datos avanzadas.md",
+    "Python/4. Manipulación de archivos y procesamiento de texto.md",
+    "Python/5. Programación funcional.md",
+    "Python/6. Manejo de excepciones y pruebas.md",
+    "Books/Las 48 leyes del Poder.pdf",
+    "Python/1. Fundamentos.md",
+    "Books/El Kybalion.pdf",
+    "2023-07-06.md",
     "ElKybaliontresIniciados 1.pdf",
     "Books/El Kybalion - Los Misterios de Hermes.md",
     "Books/Las 48 Leyes del Poder.md",
@@ -173,22 +182,13 @@
     "AJAXs.md",
     "Books",
     "~$w template - Software Engineering Lead 1.docx",
-    "Python/4. Manipulación de archivos y procesamiento de texto.md",
     "New template - Software Engineering Lead.docx",
     "New template - Software Engineering Lead 1.docx",
-    "Python/5. Programación funcional.md",
     "Python/7. Bases de datos.md",
     "Python/10. Desarrollo avanzado.md",
     "Python/9. Procesamiento y visualización de datos.md",
     "Python/8. Programación web.md",
-    "Python/6. Manejo de excepciones y pruebas.md",
-    "Python/3. Estructura de datos avanzadas.md",
-    "Python/2. Programación orientada a objetos (POO).md",
-    "React/NOTES.md",
     "Python",
-    "React/Auth.md",
-    "Laravel/Return unauthorized.md",
-    "Laravel/Notes Laravel.md",
-    "Laravel/Cors.md"
+    "React/Auth.md"
   ]
 }
