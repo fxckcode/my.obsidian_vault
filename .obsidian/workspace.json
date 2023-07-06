@@ -35,11 +35,9 @@
             "id": "fbd736d3c28ec38a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Books/Las 48 Leyes del Poder.md",
-                "mode": "source",
-                "source": false
+                "file": "Books/[PD] Libros - 48 leyes del Poder.pdf"
               }
             }
           }
@@ -118,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Las 48 Leyes del Poder.md",
+                "file": "Books/[PD] Libros - 48 leyes del Poder.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Las 48 Leyes del Poder.md",
+                "file": "Books/[PD] Libros - 48 leyes del Poder.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Las 48 Leyes del Poder.md"
+                "file": "Books/[PD] Libros - 48 leyes del Poder.pdf"
               }
             }
           }
@@ -180,48 +178,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "floating": {
-    "id": "993726da57cbaa8e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1979f40d23a87a17",
-        "type": "window",
-        "children": [
-          {
-            "id": "8a584b5ddd7241c6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "84d2bfc6e60912e5",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "[PD] Libros - 48 leyes del Poder.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 125,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "fbd736d3c28ec38a",
   "lastOpenFiles": [
-    "[PD] Libros - 48 leyes del Poder.pdf",
-    "Books/Las 48 Leyes del Poder.md",
-    "Books/El Kybalion - Los Misterios de Hermes.md",
     "ElKybaliontresIniciados 1.pdf",
-    "ElKybaliontresIniciados.pdf",
+    "Books/[PD] Libros - 48 leyes del Poder.pdf",
+    "Books/El Kybalion - Los Misterios de Hermes.md",
+    "Books/Las 48 Leyes del Poder.md",
+    "Books/ElKybaliontresIniciados.pdf",
     "CV.pdf",
     "CV.md",
     "PHP/A Tener en Cuenta.md",
