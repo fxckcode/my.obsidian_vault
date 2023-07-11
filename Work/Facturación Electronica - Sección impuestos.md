@@ -107,3 +107,4 @@ $(`#select_precios_fact_electronica_${productid}`).change(function() {
         let newPrecioUnitario = precioUnitario - calculoDescuento; // Calcula el nuevo precio unitario después del descuento
 
 ```
+
