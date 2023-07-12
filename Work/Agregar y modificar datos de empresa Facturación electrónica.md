@@ -19,8 +19,8 @@
 	- [ ] Detalles tributarios (string)
 	- [ ] Celular (string)
 	- [ ] Teléfono (string)
-	- [ ] Persona responsable de facturación (string)
-- [ ] Agregar link a la opción nueva de código postal
+	- [ ] Persona responsable de facturación (string) 
+- [ ] Agregar link a la opción nueva de código postal  [Presentación](https://docs.google.com/presentation/d/1XLffBqOOGGYVwNjjAgKKUFanFDnDkU_kZYFgDmEzS3Q/edit?pli=1)
 - [ ] Modificar opción responsables [Presentación](https://docs.google.com/presentation/d/1XLffBqOOGGYVwNjjAgKKUFanFDnDkU_kZYFgDmEzS3Q/edit?pli=1)
 - [ ] Modificar opción tipos de operación [Presentación](https://docs.google.com/presentation/d/1XLffBqOOGGYVwNjjAgKKUFanFDnDkU_kZYFgDmEzS3Q/edit?pli=1)
 - [ ] Modificar opción tipos de identificación [Presentación](https://docs.google.com/presentation/d/1XLffBqOOGGYVwNjjAgKKUFanFDnDkU_kZYFgDmEzS3Q/edit?pli=1)
