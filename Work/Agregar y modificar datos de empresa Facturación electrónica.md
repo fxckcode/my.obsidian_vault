@@ -3,7 +3,13 @@
 <hr>
 
 # Pendientes
-- [ ] Modificar aspecto visual de los desplegables
+- [x] Ocultar opciones:
+	- [x] Selecciona tu idioma
+	- [x] Selecciona tu impuesto
+	- [x] Selecciona tu ambiente
+	- [x] Moneda por defecto
+	- [x] Tipo régimen
+- [x] Modificar aspecto visual de los desplegables
 - [ ] Agregar nuevas opciones 
 	- [ ] Código CIIU (integer)
 	- [ ] Nombre comercial (string)
@@ -12,18 +18,12 @@
 	- [ ] Razón social (string)
 	- [ ] Detalles tributarios (string)
 	- [ ] Celular (string)
-	- [ ] Teléfono string
-	- [ ] Persona responsable de facturación
+	- [ ] Teléfono (string)
+	- [ ] Persona responsable de facturación (string)
 - [ ] Agregar link a la opción nueva de código postal
-- [ ] Modificar opción responsables
-- [ ] Modificar opción tipos de operación
-- [ ] Modificar opción tipos de identificación
-- [ ] Ocultar opciones:
-	- [ ] Selecciona tu idioma
-	- [ ] Selecciona tu impuesto
-	- [ ] Selecciona tu ambiente
-	- [ ] Moneda por defecto
-	- [ ] Tipo régimen
+- [ ] Modificar opción responsables [Presentación](https://docs.google.com/presentation/d/1XLffBqOOGGYVwNjjAgKKUFanFDnDkU_kZYFgDmEzS3Q/edit?pli=1)
+- [ ] Modificar opción tipos de operación [Presentación](https://docs.google.com/presentation/d/1XLffBqOOGGYVwNjjAgKKUFanFDnDkU_kZYFgDmEzS3Q/edit?pli=1)
+- [ ] Modificar opción tipos de identificación [Presentación](https://docs.google.com/presentation/d/1XLffBqOOGGYVwNjjAgKKUFanFDnDkU_kZYFgDmEzS3Q/edit?pli=1)
 
 <hr>
 
