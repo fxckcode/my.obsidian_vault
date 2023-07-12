@@ -5,14 +5,14 @@
 # Pendientes
 - [ ] Modificar aspecto visual de los desplegables
 - [ ] Agregar nuevas opciones 
-	- [ ] Código CIIU
-	- [ ] Nombre comercial
-	- [ ] Código postal
-	- [ ] Dirección
-	- [ ] Razón social
-	- [ ] Detalles tributarios
-	- [ ] Celular
-	- [ ] Teléfono
+	- [ ] Código CIIU (integer)
+	- [ ] Nombre comercial (string)
+	- [ ] Código postal (integer)
+	- [ ] Dirección (string)
+	- [ ] Razón social (string)
+	- [ ] Detalles tributarios (string)
+	- [ ] Celular (string)
+	- [ ] Teléfono string
 	- [ ] Persona responsable de facturación
 - [ ] Agregar link a la opción nueva de código postal
 - [ ] Modificar opción responsables
