@@ -158,10 +158,12 @@
   },
   "active": "f5d97b15ffd49cfb",
   "lastOpenFiles": [
-    "Work/AJAXs.md",
-    "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
-    "AJAXs.md",
     "Work/Facturación Electronica - Sección impuestos.md",
+    "Work/Codigo Comentado.md",
+    "tabsItems.blade.php",
+    "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
+    "Work/AJAXs.md",
+    "AJAXs.md",
     "Facturación Electronica - Sección impuestos.md",
     "Work/Facturación Electronica - Sección impuestos 1.md",
     "React/NOTES.md",
@@ -189,10 +191,7 @@
     "CV.pdf",
     "Books/Las 48 leyes del Poder.pdf",
     "Books/El Kybalion.pdf",
-    "Books",
     "SQL Course/Recursos y extensiones.md",
-    "SQL Course/2. Sentencias DML.md",
-    "SQL Course/1. Sentencias DDL.md",
-    "SQL Course/0. Entorno.md"
+    "SQL Course/2. Sentencias DML.md"
   ]
 }
