@@ -10,6 +10,7 @@
 	- [x] Moneda por defecto
 	- [x] Tipo régimen
 - [x] Modificar aspecto visual de los desplegables
+- [ ] Reorganizar campos [Demo](https://probandobubblemayo.bubbleapps.io/version-test)
 - [ ] Agregar nuevas opciones 
 	- [ ] Código CIIU (integer)
 	- [ ] Nombre comercial (string)
