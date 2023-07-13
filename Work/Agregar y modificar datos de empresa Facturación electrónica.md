@@ -10,21 +10,23 @@
 	- [x] Moneda por defecto
 	- [x] Tipo régimen
 - [x] Modificar aspecto visual de los desplegables
-- [ ] Reorganizar campos [Demo](https://probandobubblemayo.bubbleapps.io/version-test)
-- [ ] Agregar nuevas opciones 
-	- [ ] Código CIIU (integer)
-	- [ ] Nombre comercial (string)
-	- [ ] Código postal (integer)
-	- [ ] Dirección (string)
-	- [ ] Razón social (string)
-	- [ ] Detalles tributarios (string)
-	- [ ] Celular (string)
-	- [ ] Teléfono (string)
-	- [ ] Persona responsable de facturación (string) 
-- [ ] Agregar link a la opción nueva de código postal  [Presentación](https://docs.google.com/presentation/d/1XLffBqOOGGYVwNjjAgKKUFanFDnDkU_kZYFgDmEzS3Q/edit?pli=1)
-- [ ] Modificar opción responsables [Presentación](https://docs.google.com/presentation/d/1XLffBqOOGGYVwNjjAgKKUFanFDnDkU_kZYFgDmEzS3Q/edit?pli=1)
-- [ ] Modificar opción tipos de operación [Presentación](https://docs.google.com/presentation/d/1XLffBqOOGGYVwNjjAgKKUFanFDnDkU_kZYFgDmEzS3Q/edit?pli=1)
-- [ ] Modificar opción tipos de identificación [Presentación](https://docs.google.com/presentation/d/1XLffBqOOGGYVwNjjAgKKUFanFDnDkU_kZYFgDmEzS3Q/edit?pli=1)
+- [x] Reorganizar campos [Demo](https://probandobubblemayo.bubbleapps.io/version-test)
+- [x] Relacionar "tipo de organización" en base de datos
+- [x] Agregar nuevas opciones 
+	- [x] Código CIIU (integer) obligatorio
+	- [x] Nombre comercial (string) no obligatorio
+	- [x] Código postal (integer) obligatorio
+	- [x] Dirección (string) 
+	- [x] Razón social (string) obligatorio
+	- [x] Detalles tributarios (relacion taxes_empresas_fe) obligatorio
+	- [x] Celular (string) obligatorio
+	- [x] Teléfono (string) no obligatorio
+	- [x] Persona responsable de facturación (string) obligatorio
+- [x] Normalizar base de datos y darle valores a los nuevos selects
+- [x] Agregar link a la opción nueva de código postal  [Presentación](https://docs.google.com/presentation/d/1XLffBqOOGGYVwNjjAgKKUFanFDnDkU_kZYFgDmEzS3Q/edit?pli=1)
+- [x] Modificar opción responsables [Presentación](https://docs.google.com/presentation/d/1XLffBqOOGGYVwNjjAgKKUFanFDnDkU_kZYFgDmEzS3Q/edit?pli=1)
+- [x] Modificar opción tipos de operación [Presentación](https://docs.google.com/presentation/d/1XLffBqOOGGYVwNjjAgKKUFanFDnDkU_kZYFgDmEzS3Q/edit?pli=1)
+- [x] Modificar opción tipos de identificación [Presentación](https://docs.google.com/presentation/d/1XLffBqOOGGYVwNjjAgKKUFanFDnDkU_kZYFgDmEzS3Q/edit?pli=1)
 
 <hr>
 
@@ -33,5 +35,3 @@
 - [Presentación](https://docs.google.com/presentation/d/1XLffBqOOGGYVwNjjAgKKUFanFDnDkU_kZYFgDmEzS3Q/edit?pli=1)
 - [Video](https://drive.google.com/file/d/1O9y2JEamvtHGrsa3vl7Q3Tg3aIXPtlPP/view?pli=1)
 - [Reunión grabada](https://drive.google.com/file/d/1O9y2JEamvtHGrsa3vl7Q3Tg3aIXPtlPP/view?pli=1)
-
-
