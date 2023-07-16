@@ -4,48 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5b78db139baf3157",
+        "id": "d20868d1877fc0f2",
         "type": "tabs",
         "children": [
           {
-            "id": "dd871e9e5ec01f27",
+            "id": "fac94f81701e6e0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/Auth Controller.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb1644772efc544d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/NOTES.md",
+                "file": "Laravel/Notes Laravel.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "373b75537b67b5b0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e6567df8181a4605",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Laravel/Auth Controller.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -124,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/NOTES.md",
+                "file": "Laravel/Notes Laravel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/NOTES.md",
+                "file": "Laravel/Notes Laravel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/NOTES.md"
+                "file": "Laravel/Notes Laravel.md"
               }
             }
           }
@@ -186,42 +155,42 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "eb1644772efc544d",
+  "active": "fac94f81701e6e0d",
   "lastOpenFiles": [
-    "Python/1. Fundamentos.md",
-    "Laravel/Auth Controller.md",
     "Books/El Kybalion.pdf",
-    "Python/2. Programación orientada a objetos (POO).md",
+    "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
+    "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
     "tabsItems.blade.php",
     "Work/Codigo Comentado.md",
-    "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
     "Books/Las 48 leyes del Poder.pdf",
-    "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
-    "Laravel/Cors.md",
-    "React/NOTES.md",
-    "Laravel/Notes Laravel.md",
-    "Laravel/Return unauthorized.md",
-    "Python/3. Estructura de datos avanzadas.md",
-    "Python/4. Manipulación de archivos y procesamiento de texto.md",
-    "Python/5. Programación funcional.md",
-    "Python/6. Manejo de excepciones y pruebas.md",
-    "2023-07-06.md",
-    "ElKybaliontresIniciados 1.pdf",
-    "Books/El Kybalion - Los Misterios de Hermes.md",
-    "Books/Las 48 Leyes del Poder.md",
-    "CV.pdf",
-    "CV.md",
-    "PHP/A Tener en Cuenta.md",
-    "PHP",
-    "Facturación Electronica - Sección impuestos.md",
-    "DATOS PROYECTO.md",
-    "PARA INSTALAR COD - LEER.md",
-    "AJAXs.md",
     "Books",
-    "~$w template - Software Engineering Lead 1.docx",
+    "DATOS PROYECTO.md",
+    "React/NOTES.md",
+    "React/Auth.md",
+    "Python/1. Fundamentos.md",
+    "PHP/A Tener en Cuenta.md",
+    "Laravel/Notes Laravel.md",
+    "Untitled",
+    "Laravel/Return unauthorized.md",
+    "Python/2. Programación orientada a objetos (POO).md",
+    "Python/3. Estructura de datos avanzadas.md",
+    "SQL Course/0. Entorno.md",
+    "SQL Course/1. Sentencias DDL.md",
+    "SQL Course/2. Sentencias DML.md",
+    "SQL Course/Recursos y extensiones.md",
+    "Laravel/Cors.md",
+    "Laravel/Auth Controller.md",
+    "AJAXs.md",
+    "Facturación Electronica - Sección impuestos.md",
+    "PARA INSTALAR COD - LEER.md",
+    "README.md",
+    "CV.pdf",
+    "PHP",
+    "CV.md",
     "New template - Software Engineering Lead.docx",
     "New template - Software Engineering Lead 1.docx",
-    "Python/7. Bases de datos.md",
-    "Python/10. Desarrollo avanzado.md"
+    "Laravel/CRUD/index().md",
+    "Python/6. Manejo de excepciones y pruebas.md",
+    "Python"
   ]
 }
