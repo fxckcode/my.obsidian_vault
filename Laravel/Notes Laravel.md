@@ -58,5 +58,3 @@ Route::group(['prefix => v1'], function() {
 ```
 
 
-New token
-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
