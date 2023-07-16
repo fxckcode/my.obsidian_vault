@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "f50b2d77fc639a79",
+    "id": "eefe99543e2d14ce",
     "type": "split",
     "children": [
       {
-        "id": "a7254e0cd119dbb1",
+        "id": "5b78db139baf3157",
         "type": "tabs",
         "children": [
           {
-            "id": "f5d97b15ffd49cfb",
+            "id": "dd871e9e5ec01f27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
+                "file": "Laravel/Auth Controller.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "70b2faf2943b13f4",
+    "id": "4f7578720ba080ae",
     "type": "split",
     "children": [
       {
-        "id": "27c4f2fa98d91403",
+        "id": "66563de36d615292",
         "type": "tabs",
         "children": [
           {
-            "id": "c2d797b38134a54f",
+            "id": "0e89b11d6b6e07ca",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "de0b17abaa1d60ac",
+            "id": "43de47a18cdb4156",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "fabd0b588502fa33",
+            "id": "04b321f7adef444b",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "a0d321b0ca41e7f2",
+            "id": "b9b0db0d77290a6f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,24 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "802188035ccc029b",
+    "id": "6d6e1ea599c93930",
     "type": "split",
     "children": [
       {
-        "id": "79eb7377ced16b6f",
+        "id": "235197e0bdca46fa",
         "type": "tabs",
         "children": [
           {
-            "id": "95cbbf2483142750",
+            "id": "761bbb318df6d582",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
+                "file": "Laravel/Auth Controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,19 +105,19 @@
             }
           },
           {
-            "id": "5ad340f221461330",
+            "id": "8f71fd41c632dc6f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
+                "file": "Laravel/Auth Controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "58cdac50268727ee",
+            "id": "0394c5931b5ca8b9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,12 +128,12 @@
             }
           },
           {
-            "id": "428da30ab3f23842",
+            "id": "10ac5558543a2612",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Agregar y modificar datos de empresa Facturación electrónica.md"
+                "file": "Laravel/Auth Controller.md"
               }
             }
           }
@@ -156,42 +155,42 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f5d97b15ffd49cfb",
+  "active": "dd871e9e5ec01f27",
   "lastOpenFiles": [
-    "Work/Facturación Electronica - Sección impuestos.md",
-    "Work/Codigo Comentado.md",
-    "tabsItems.blade.php",
-    "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
-    "Work/AJAXs.md",
-    "AJAXs.md",
-    "Facturación Electronica - Sección impuestos.md",
-    "Work/Facturación Electronica - Sección impuestos 1.md",
-    "React/NOTES.md",
-    "React/Auth.md",
-    "React",
-    "Python/9. Procesamiento y visualización de datos.md",
-    "Python/8. Programación web.md",
-    "Python/7. Bases de datos.md",
-    "Python/6. Manejo de excepciones y pruebas.md",
-    "Python/5. Programación funcional.md",
-    "Python/4. Manipulación de archivos y procesamiento de texto.md",
-    "Python/3. Estructura de datos avanzadas.md",
+    "Books/El Kybalion.pdf",
     "Python/2. Programación orientada a objetos (POO).md",
-    "Python/10. Desarrollo avanzado.md",
+    "tabsItems.blade.php",
+    "Work/Codigo Comentado.md",
+    "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
     "Python/1. Fundamentos.md",
-    "Python",
+    "Books/Las 48 leyes del Poder.pdf",
+    "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
+    "Laravel/Cors.md",
+    "React/NOTES.md",
+    "Laravel/Notes Laravel.md",
+    "Laravel/Return unauthorized.md",
+    "Python/3. Estructura de datos avanzadas.md",
+    "Python/4. Manipulación de archivos y procesamiento de texto.md",
+    "Python/5. Programación funcional.md",
+    "Python/6. Manejo de excepciones y pruebas.md",
+    "2023-07-06.md",
+    "ElKybaliontresIniciados 1.pdf",
+    "Books/El Kybalion - Los Misterios de Hermes.md",
+    "Books/Las 48 Leyes del Poder.md",
+    "CV.pdf",
+    "CV.md",
     "PHP/A Tener en Cuenta.md",
     "PHP",
+    "Facturación Electronica - Sección impuestos.md",
+    "DATOS PROYECTO.md",
+    "PARA INSTALAR COD - LEER.md",
+    "AJAXs.md",
+    "Books",
+    "~$w template - Software Engineering Lead 1.docx",
     "New template - Software Engineering Lead.docx",
     "New template - Software Engineering Lead 1.docx",
-    "Laravel/Return unauthorized.md",
-    "Laravel/Cors.md",
-    "Laravel/CRUD/index().md",
-    "Laravel/CRUD",
-    "CV.pdf",
-    "Books/Las 48 leyes del Poder.pdf",
-    "Books/El Kybalion.pdf",
-    "SQL Course/Recursos y extensiones.md",
-    "SQL Course/2. Sentencias DML.md"
+    "Python/7. Bases de datos.md",
+    "Python/10. Desarrollo avanzado.md",
+    "Python/9. Procesamiento y visualización de datos.md"
   ]
 }
