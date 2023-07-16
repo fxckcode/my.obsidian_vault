@@ -1,0 +1,1 @@
+https://plutonium.pw/docs/install/
