@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Facturación Electronica - Sección impuestos.md",
+                "file": "SQL Course/0. Entorno.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Facturación Electronica - Sección impuestos.md",
+                "file": "SQL Course/0. Entorno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Facturación Electronica - Sección impuestos.md",
+                "file": "SQL Course/0. Entorno.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Facturación Electronica - Sección impuestos.md"
+                "file": "SQL Course/0. Entorno.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   },
   "active": "fac94f81701e6e0d",
   "lastOpenFiles": [
-    "AJAXs.md",
+    "SQL Course/1. Sentencias DDL.md",
     "Work/Facturación Electronica - Sección impuestos.md",
+    "AJAXs.md",
     "Facturación Electronica - Sección impuestos.md",
     "CV.md",
     "Work/Facturación Electronica - Sección impuestos 1.md",
@@ -181,7 +182,6 @@
     "Laravel/Return unauthorized.md",
     "Python/2. Programación orientada a objetos (POO).md",
     "Python/3. Estructura de datos avanzadas.md",
-    "SQL Course/1. Sentencias DDL.md",
     "SQL Course/Recursos y extensiones.md",
     "Laravel/Cors.md",
     "Laravel/Auth Controller.md",
