@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "5d399845462e4d9e",
+            "id": "a39050a92c2aaece",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Modelo Entidad-Relacion.md"
+                "file": "Excalidraw/Ejercicio Modelo Entidad-Relacion.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Modelo Entidad-Relacion.md",
+                "file": "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Modelo Entidad-Relacion.md",
+                "file": "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Modelo Entidad-Relacion.md"
+                "file": "Excalidraw/Ejercicio Modelo Entidad-Relacion.md"
               }
             }
           }
@@ -175,10 +175,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5d399845462e4d9e",
+  "active": "0e89b11d6b6e07ca",
   "lastOpenFiles": [
-    "SQL Course/2. Sentencias DML.md",
     "Excalidraw/Modelo Entidad-Relacion.md",
+    "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
+    "Excalidraw/-.md",
+    "SQL Course/2. Sentencias DML.md",
     "SQL Course/Modelo Entidad-Relación.md",
     "Excalidraw",
     "SQL Course/0. Entorno.md",
@@ -207,8 +209,6 @@
     "Python/3. Estructura de datos avanzadas.md",
     "SQL Course/Recursos y extensiones.md",
     "Laravel/Cors.md",
-    "Laravel/Auth Controller.md",
-    "PARA INSTALAR COD - LEER.md",
     "CV.pdf",
     "PHP",
     "New template - Software Engineering Lead.docx",
