@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "5d399845462e4d9e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Modelo Entidad-Relacion.md"
+              }
+            }
+          },
+          {
             "id": "06012fa8bbaa0938",
             "type": "leaf",
             "state": {
@@ -27,7 +37,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +175,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fac94f81701e6e0d",
+  "active": "5d399845462e4d9e",
   "lastOpenFiles": [
     "SQL Course/2. Sentencias DML.md",
     "Excalidraw/Modelo Entidad-Relacion.md",
