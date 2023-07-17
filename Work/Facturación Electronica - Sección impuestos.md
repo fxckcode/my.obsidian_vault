@@ -15,7 +15,7 @@ Ya hechos
 - [x] Hacer que se guarden correctamente en la tabla y que en tipo_facturación figuren como impuestos de facturación electronica
 - [x] Crear un codicional para que el modal sea diferente si se esta en facturación pos o facturación electronica
 - [x] Que los impuestos sean filtrados en el select de impuesto ya sea en Editar o Crear un producto
-
+pgt
 Pendientes
 - [x] Cuando se cree el producto automaticamente se cierre el modal
 - [x] Que se recargue la página
