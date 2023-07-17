@@ -38,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6d6e1ea599c93930",
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
+                "file": "Excalidraw/Modelo Entidad-Relacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
+                "file": "Excalidraw/Modelo Entidad-Relacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Ejercicio Modelo Entidad-Relacion.md"
+                "file": "Excalidraw/Modelo Entidad-Relacion.md"
               }
             }
           }
@@ -176,10 +175,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a39050a92c2aaece",
+  "active": "06012fa8bbaa0938",
   "lastOpenFiles": [
-    "Excalidraw/Modelo Entidad-Relacion.md",
     "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
+    "Excalidraw/Modelo Entidad-Relacion.md",
     "Excalidraw/-.md",
     "SQL Course/2. Sentencias DML.md",
     "SQL Course/Modelo Entidad-Relación.md",
