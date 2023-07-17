@@ -17,7 +17,6 @@ $table->foreign()->references()->on()
 bcrypt($data['password']) o bcrypt($request->password)
 ```
 
-
 ## Crear un Seeder con datos falsos
 
 ```bash
