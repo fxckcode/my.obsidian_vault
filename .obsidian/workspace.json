@@ -38,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Modelo Entidad-Relacion.md",
+                "file": "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Modelo Entidad-Relacion.md",
+                "file": "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Modelo Entidad-Relacion.md"
+                "file": "Excalidraw/Ejercicio Modelo Entidad-Relacion.md"
               }
             }
           }
@@ -176,10 +176,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "06012fa8bbaa0938",
+  "active": "a39050a92c2aaece",
   "lastOpenFiles": [
-    "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
     "Excalidraw/Modelo Entidad-Relacion.md",
+    "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
     "Excalidraw/-.md",
     "SQL Course/2. Sentencias DML.md",
     "SQL Course/Modelo Entidad-Relación.md",
