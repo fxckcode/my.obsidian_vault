@@ -1,0 +1,1 @@
+- Traer las fuentes y lista de plugins para el VSCode
