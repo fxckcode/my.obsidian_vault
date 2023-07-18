@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP/A Tener en Cuenta.md",
+                "file": "Laravel/Notes Laravel.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/A Tener en Cuenta.md",
+                "file": "Laravel/Notes Laravel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHP/A Tener en Cuenta.md",
+                "file": "Laravel/Notes Laravel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP/A Tener en Cuenta.md"
+                "file": "Laravel/Notes Laravel.md"
               }
             }
           }
@@ -156,25 +156,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e6567df8181a4605",
+  "active": "0e89b11d6b6e07ca",
   "lastOpenFiles": [
-    "Laravel/Return unauthorized.md",
-    "PHP/A Tener en Cuenta.md",
+    "Files",
+    "Work/AJAXs.md",
     "Laravel/Notes Laravel.md",
+    "Excalidraw/Bases de datos",
+    "SENA/Bases de datos",
+    "SENA/Untitled.md",
+    "SENA",
+    "PHP/A Tener en Cuenta.md",
+    "Laravel/Return unauthorized.md",
     "Laravel/Auth Controller.md",
-    "CV.pdf",
+    "Files/CV.pdf",
     "Facturación Electronica - Sección impuestos.md",
     "PARA INSTALAR COD - LEER.md",
     "CV.md",
     "Work/Facturación Electronica - Sección impuestos.md",
     "AJAXs.md",
     "Work/Facturación Electronica - Sección impuestos 1.md",
-    "Excalidraw/Modelo Entidad-Relacion.md",
-    "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
-    "SQL Course/2. Sentencias DML.md",
+    "Excalidraw/Bases de datos/Modelo Entidad-Relacion.md",
+    "Excalidraw/Bases de datos/Ejercicio Modelo Entidad-Relacion.md",
+    "SENA/Bases de datos/2. Sentencias DML.md",
     "Excalidraw",
-    "SQL Course/1. Sentencias DDL.md",
-    "SQL Course/0. Entorno.md",
+    "SENA/Bases de datos/1. Sentencias DDL.md",
+    "SENA/Bases de datos/0. Entorno.md",
     "Laravel/Cors.md",
     "React/NOTES.md",
     "Python/1. Fundamentos.md",
@@ -186,13 +192,7 @@
     "Books/Las 48 leyes del Poder.pdf",
     "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
     "Python/3. Estructura de datos avanzadas.md",
-    "Python/4. Manipulación de archivos y procesamiento de texto.md",
-    "Python/5. Programación funcional.md",
-    "Python/6. Manejo de excepciones y pruebas.md",
     "ElKybaliontresIniciados 1.pdf",
-    "PHP",
-    "Books",
-    "~$w template - Software Engineering Lead 1.docx",
-    "New template - Software Engineering Lead.docx"
+    "PHP"
   ]
 }
