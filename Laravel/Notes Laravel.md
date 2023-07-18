@@ -27,7 +27,7 @@ php artisan make:seeder ProductosSeeder
 # ProductSeeder | Ejemplo
 
 public function run()
-{
+{p
 	DB::table('products')->insert([
 		'name' => 'Teléfono',
 		'description' => 'Mobile Phone Apple'
