@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/Notes Laravel.md",
+                "file": "SENA/Pendientes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel/Notes Laravel.md",
+                "file": "SENA/Pendientes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel/Notes Laravel.md",
+                "file": "SENA/Pendientes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel/Notes Laravel.md"
+                "file": "SENA/Pendientes.md"
               }
             }
           }
@@ -156,14 +156,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0e89b11d6b6e07ca",
+  "active": "e6567df8181a4605",
   "lastOpenFiles": [
+    "Laravel/Cors.md",
+    "SENA/Pendientes.md",
+    "Laravel/Notes Laravel.md",
+    "Python/2. Programación orientada a objetos (POO).md",
+    "React/NOTES.md",
+    "React/Auth.md",
     "Files",
     "Work/AJAXs.md",
-    "Laravel/Notes Laravel.md",
     "Excalidraw/Bases de datos",
     "SENA/Bases de datos",
-    "SENA/Untitled.md",
     "SENA",
     "PHP/A Tener en Cuenta.md",
     "Laravel/Return unauthorized.md",
@@ -181,18 +185,14 @@
     "Excalidraw",
     "SENA/Bases de datos/1. Sentencias DDL.md",
     "SENA/Bases de datos/0. Entorno.md",
-    "Laravel/Cors.md",
-    "React/NOTES.md",
     "Python/1. Fundamentos.md",
     "Books/El Kybalion.pdf",
-    "Python/2. Programación orientada a objetos (POO).md",
     "tabsItems.blade.php",
     "Work/Codigo Comentado.md",
     "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
     "Books/Las 48 leyes del Poder.pdf",
     "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
     "Python/3. Estructura de datos avanzadas.md",
-    "ElKybaliontresIniciados 1.pdf",
-    "PHP"
+    "ElKybaliontresIniciados 1.pdf"
   ]
 }
