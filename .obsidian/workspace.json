@@ -11,9 +11,11 @@
             "id": "e6567df8181a4605",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CV.pdf"
+                "file": "PHP/A Tener en Cuenta.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CV.pdf",
+                "file": "PHP/A Tener en Cuenta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CV.pdf",
+                "file": "PHP/A Tener en Cuenta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CV.pdf"
+                "file": "PHP/A Tener en Cuenta.md"
               }
             }
           }
@@ -156,8 +158,12 @@
   },
   "active": "e6567df8181a4605",
   "lastOpenFiles": [
-    "Facturación Electronica - Sección impuestos.md",
+    "Laravel/Return unauthorized.md",
+    "PHP/A Tener en Cuenta.md",
+    "Laravel/Notes Laravel.md",
+    "Laravel/Auth Controller.md",
     "CV.pdf",
+    "Facturación Electronica - Sección impuestos.md",
     "PARA INSTALAR COD - LEER.md",
     "CV.md",
     "Work/Facturación Electronica - Sección impuestos.md",
@@ -170,7 +176,6 @@
     "SQL Course/1. Sentencias DDL.md",
     "SQL Course/0. Entorno.md",
     "Laravel/Cors.md",
-    "Laravel/Auth Controller.md",
     "React/NOTES.md",
     "Python/1. Fundamentos.md",
     "Books/El Kybalion.pdf",
@@ -180,13 +185,10 @@
     "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
     "Books/Las 48 leyes del Poder.pdf",
     "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
-    "Laravel/Notes Laravel.md",
-    "Laravel/Return unauthorized.md",
     "Python/3. Estructura de datos avanzadas.md",
     "Python/4. Manipulación de archivos y procesamiento de texto.md",
     "Python/5. Programación funcional.md",
     "Python/6. Manejo de excepciones y pruebas.md",
-    "2023-07-06.md",
     "ElKybaliontresIniciados 1.pdf",
     "PHP",
     "Books",
