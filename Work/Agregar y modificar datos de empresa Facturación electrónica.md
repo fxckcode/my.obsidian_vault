@@ -35,3 +35,9 @@
 - [Presentación](https://docs.google.com/presentation/d/1XLffBqOOGGYVwNjjAgKKUFanFDnDkU_kZYFgDmEzS3Q/edit?pli=1)
 - [Video](https://drive.google.com/file/d/1O9y2JEamvtHGrsa3vl7Q3Tg3aIXPtlPP/view?pli=1)
 - [Reunión grabada](https://drive.google.com/file/d/1O9y2JEamvtHGrsa3vl7Q3Tg3aIXPtlPP/view?pli=1)
+
+## Adicionales
+- [ ] En la opción responsabilidades fiscales, el código de la última opción es R‐99‐PN y la descripción para esa opción es No aplica – Otros
+- [x] La opción detalles tributario no está mostrando opciones - **Enviar SQL**
+- [x] Las opciones del campo tipo de operación están incompletos - **Estan completos** 
+- [x] Al campo tipo de identificación le hace falta la opción código 47 - **Enviar SQL** 
