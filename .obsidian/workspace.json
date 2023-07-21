@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Facturación Electronica - Sección impuestos.md",
+                "file": "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Facturación Electronica - Sección impuestos.md",
+                "file": "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Facturación Electronica - Sección impuestos.md",
+                "file": "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Facturación Electronica - Sección impuestos.md"
+                "file": "Work/Agregar y modificar datos de empresa Facturación electrónica.md"
               }
             }
           }
@@ -146,6 +146,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -157,9 +158,12 @@
   },
   "active": "f5d97b15ffd49cfb",
   "lastOpenFiles": [
+    "Laravel/Return unauthorized.md",
+    "Excalidraw/Modelo Entidad-Relacion.md",
+    "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
+    "Work/Facturación Electronica - Sección impuestos.md",
     "Work/Codigo Comentado.md",
     "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
-    "Work/Facturación Electronica - Sección impuestos.md",
     "Facturación Electronica - Sección impuestos.md",
     "CV.md",
     "AJAXs.md",
@@ -181,7 +185,6 @@
     "Excalidraw",
     "Laravel/Notes Laravel.md",
     "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
-    "Laravel/Return unauthorized.md",
     "PARA INSTALAR COD - LEER.md",
     "tabsItems.blade.php",
     "React/NOTES.md",
@@ -189,8 +192,6 @@
     "Python/9. Procesamiento y visualización de datos.md",
     "Python/8. Programación web.md",
     "Python/7. Bases de datos.md",
-    "Python/6. Manejo de excepciones y pruebas.md",
-    "Python/5. Programación funcional.md",
     "Python",
     "PHP"
   ]
