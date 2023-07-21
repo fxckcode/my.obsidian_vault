@@ -41,3 +41,4 @@
 - [x] La opción detalles tributario no está mostrando opciones - **Enviar SQL**
 - [x] Las opciones del campo tipo de operación están incompletos - **Estan completos** 
 - [x] Al campo tipo de identificación le hace falta la opción código 47 - **Enviar SQL** 
+- [ ] Poner de un color más oscuro las opciones del menú de configuración de facturación Electrónica
