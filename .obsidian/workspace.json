@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
+                "file": "Asupro/Controladores.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
+                "file": "Asupro/Controladores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
+                "file": "Asupro/Controladores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Agregar y modificar datos de empresa Facturación electrónica.md"
+                "file": "Asupro/Controladores.md"
               }
             }
           }
@@ -158,12 +158,14 @@
   },
   "active": "f5d97b15ffd49cfb",
   "lastOpenFiles": [
+    "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
+    "Asupro/Controladores.md",
+    "Asupro",
     "Laravel/Return unauthorized.md",
     "Excalidraw/Modelo Entidad-Relacion.md",
     "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
     "Work/Facturación Electronica - Sección impuestos.md",
     "Work/Codigo Comentado.md",
-    "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
     "Facturación Electronica - Sección impuestos.md",
     "CV.md",
     "AJAXs.md",
@@ -191,8 +193,6 @@
     "React",
     "Python/9. Procesamiento y visualización de datos.md",
     "Python/8. Programación web.md",
-    "Python/7. Bases de datos.md",
-    "Python",
-    "PHP"
+    "Python"
   ]
 }
