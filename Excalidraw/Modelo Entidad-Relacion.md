@@ -249,7 +249,7 @@ Relación uno a muchos en modelo lógico ^WKTDXeIa
 Esta relación se distingue en un MER porque si cardinalidad
 entre las dos entidades está designada por (1.M)
 Cuando se tiene una relacion de este tipo se debe colocar
-o enviar la llave primaria la tabla que tiene cardinalidad
+o enviar la llave primaria a la tabla que tiene cardinalidad
 1 al tabla que tiene cardinalidad M ^WTQEosYF
 
 Persona ^olg8Q77R
@@ -9322,8 +9322,8 @@ Codigo ^4OHMm9IB
 		},
 		{
 			"type": "text",
-			"version": 1036,
-			"versionNonce": 1145297931,
+			"version": 1048,
+			"versionNonce": 1666664901,
 			"isDeleted": false,
 			"id": "WTQEosYF",
 			"fillStyle": "hachure",
@@ -9336,24 +9336,24 @@ Codigo ^4OHMm9IB
 			"y": 1626.9246565862823,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 967.96875,
+			"width": 984.375,
 			"height": 168,
 			"seed": 1710657899,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1690836913934,
+			"updated": 1690837609918,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
 			"fontFamily": 3,
-			"text": "Esta relación se distingue en un MER porque si cardinalidad\nentre las dos entidades está designada por (1.M)\nCuando se tiene una relacion de este tipo se debe colocar\no enviar la llave primaria la tabla que tiene cardinalidad\n1 al tabla que tiene cardinalidad M",
-			"rawText": "Esta relación se distingue en un MER porque si cardinalidad\nentre las dos entidades está designada por (1.M)\nCuando se tiene una relacion de este tipo se debe colocar\no enviar la llave primaria la tabla que tiene cardinalidad\n1 al tabla que tiene cardinalidad M",
+			"text": "Esta relación se distingue en un MER porque si cardinalidad\nentre las dos entidades está designada por (1.M)\nCuando se tiene una relacion de este tipo se debe colocar\no enviar la llave primaria a la tabla que tiene cardinalidad\n1 al tabla que tiene cardinalidad M",
+			"rawText": "Esta relación se distingue en un MER porque si cardinalidad\nentre las dos entidades está designada por (1.M)\nCuando se tiene una relacion de este tipo se debe colocar\no enviar la llave primaria a la tabla que tiene cardinalidad\n1 al tabla que tiene cardinalidad M",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Esta relación se distingue en un MER porque si cardinalidad\nentre las dos entidades está designada por (1.M)\nCuando se tiene una relacion de este tipo se debe colocar\no enviar la llave primaria la tabla que tiene cardinalidad\n1 al tabla que tiene cardinalidad M",
+			"originalText": "Esta relación se distingue en un MER porque si cardinalidad\nentre las dos entidades está designada por (1.M)\nCuando se tiene una relacion de este tipo se debe colocar\no enviar la llave primaria a la tabla que tiene cardinalidad\n1 al tabla que tiene cardinalidad M",
 			"lineHeight": 1.2,
 			"baseline": 160
 		},
@@ -11245,10 +11245,10 @@ Codigo ^4OHMm9IB
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 4348.77119115401,
-		"scrollY": 3008.607485035054,
+		"scrollX": 974.2802376630573,
+		"scrollY": -752.0249935974233,
 		"zoom": {
-			"value": 0.15000000000000002
+			"value": 0.65
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
