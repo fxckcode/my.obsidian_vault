@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asupro/Controladores.md",
+                "file": "Asupro/General.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asupro/Controladores.md",
+                "file": "Asupro/General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asupro/Controladores.md",
+                "file": "Asupro/General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asupro/Controladores.md"
+                "file": "Asupro/General.md"
               }
             }
           }
@@ -160,7 +160,7 @@
   "active": "f5d97b15ffd49cfb",
   "lastOpenFiles": [
     "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
-    "Asupro/Controladores.md",
+    "Asupro/General.md",
     "Asupro",
     "Laravel/Return unauthorized.md",
     "Excalidraw/Modelo Entidad-Relacion.md",
