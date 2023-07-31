@@ -1,21 +1,19 @@
 {
   "main": {
-    "id": "f50b2d77fc639a79",
+    "id": "eefe99543e2d14ce",
     "type": "split",
     "children": [
       {
-        "id": "a7254e0cd119dbb1",
+        "id": "373b75537b67b5b0",
         "type": "tabs",
         "children": [
           {
-            "id": "f5d97b15ffd49cfb",
+            "id": "e6567df8181a4605",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Asupro/General.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Modelo Entidad-Relacion.md"
               }
             }
           }
@@ -25,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "70b2faf2943b13f4",
+    "id": "4f7578720ba080ae",
     "type": "split",
     "children": [
       {
-        "id": "27c4f2fa98d91403",
+        "id": "66563de36d615292",
         "type": "tabs",
         "children": [
           {
-            "id": "c2d797b38134a54f",
+            "id": "0e89b11d6b6e07ca",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +41,7 @@
             }
           },
           {
-            "id": "de0b17abaa1d60ac",
+            "id": "43de47a18cdb4156",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +56,7 @@
             }
           },
           {
-            "id": "fabd0b588502fa33",
+            "id": "04b321f7adef444b",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -66,7 +64,7 @@
             }
           },
           {
-            "id": "a0d321b0ca41e7f2",
+            "id": "b9b0db0d77290a6f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,24 +75,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "802188035ccc029b",
+    "id": "6d6e1ea599c93930",
     "type": "split",
     "children": [
       {
-        "id": "79eb7377ced16b6f",
+        "id": "235197e0bdca46fa",
         "type": "tabs",
         "children": [
           {
-            "id": "95cbbf2483142750",
+            "id": "761bbb318df6d582",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asupro/General.md",
+                "file": "Excalidraw/Modelo Entidad-Relacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,19 +103,19 @@
             }
           },
           {
-            "id": "5ad340f221461330",
+            "id": "8f71fd41c632dc6f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asupro/General.md",
+                "file": "Excalidraw/Modelo Entidad-Relacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "58cdac50268727ee",
+            "id": "0394c5931b5ca8b9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,12 +126,12 @@
             }
           },
           {
-            "id": "428da30ab3f23842",
+            "id": "10ac5558543a2612",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asupro/General.md"
+                "file": "Excalidraw/Modelo Entidad-Relacion.md"
               }
             }
           }
@@ -147,53 +144,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f5d97b15ffd49cfb",
+  "active": "e6567df8181a4605",
   "lastOpenFiles": [
-    "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
-    "Asupro/General.md",
-    "Asupro",
+    "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
+    "SENA/Pendientes.md",
+    "SQL Course/Recursos y extensiones.md",
+    "SQL Course/2. Sentencias DML.md",
+    "SQL Course/1. Sentencias DDL.md",
+    "SQL Course/0. Entorno.md",
+    "SQL Course",
     "Laravel/Return unauthorized.md",
     "Excalidraw/Modelo Entidad-Relacion.md",
-    "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
-    "Work/Facturación Electronica - Sección impuestos.md",
-    "Work/Codigo Comentado.md",
-    "Facturación Electronica - Sección impuestos.md",
-    "CV.md",
-    "AJAXs.md",
-    "Work/Facturación Electronica - Sección impuestos 1.md",
-    "Work/AJAXs.md",
+    "CV.pdf",
+    "Asupro/General.md",
+    "Asupro",
+    "Laravel/Cors.md",
+    "Laravel/Notes Laravel.md",
+    "Python/2. Programación orientada a objetos (POO).md",
+    "React/NOTES.md",
     "React/Auth.md",
-    "SENA/Pendientes.md",
-    "SENA/Bases de datos/Recursos y extensiones.md",
-    "SENA/Bases de datos/2. Sentencias DML.md",
-    "SENA/Bases de datos/1. Sentencias DDL.md",
-    "SENA/Bases de datos/0. Entorno.md",
+    "Files",
+    "Work/AJAXs.md",
+    "Excalidraw/Bases de datos",
     "SENA/Bases de datos",
     "SENA",
+    "PHP/A Tener en Cuenta.md",
+    "Laravel/Auth Controller.md",
     "Files/CV.pdf",
-    "Files",
+    "Facturación Electronica - Sección impuestos.md",
+    "PARA INSTALAR COD - LEER.md",
+    "CV.md",
+    "Work/Facturación Electronica - Sección impuestos.md",
+    "AJAXs.md",
+    "Work/Facturación Electronica - Sección impuestos 1.md",
     "Excalidraw/Bases de datos/Modelo Entidad-Relacion.md",
     "Excalidraw/Bases de datos/Ejercicio Modelo Entidad-Relacion.md",
-    "Excalidraw/Bases de datos",
+    "SENA/Bases de datos/2. Sentencias DML.md",
     "Excalidraw",
-    "Laravel/Notes Laravel.md",
-    "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
-    "PARA INSTALAR COD - LEER.md",
-    "tabsItems.blade.php",
-    "React/NOTES.md",
-    "React",
-    "Python/9. Procesamiento y visualización de datos.md",
-    "Python/8. Programación web.md",
-    "Python"
+    "Books/El Kybalion.pdf"
   ]
 }
