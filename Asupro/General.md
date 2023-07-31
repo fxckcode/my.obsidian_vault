@@ -8,7 +8,7 @@
 - [x] Usuarios
 	- [x] **Solo administradores**
 	- [x] Middleware para que solo puedan administradores
-- [ ] Horarios **Seeeder + Controlador para administradores**
+- [ ] Horarios **Seeder predeterminado + Controlador para administradores**
 - [ ] Pedidos
 - [ ] Middleware que verifique los horarios y monitoree a PedidosController
 - [ ] Documentar todo lo anterior
