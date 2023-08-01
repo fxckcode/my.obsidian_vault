@@ -11,9 +11,11 @@
             "id": "e6567df8181a4605",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Modelo Entidad-Relacion.md"
+                "file": "SENA/Carlos/Biblografía.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Modelo Entidad-Relacion.md",
+                "file": "SENA/Carlos/Biblografía.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Modelo Entidad-Relacion.md",
+                "file": "SENA/Carlos/Biblografía.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Modelo Entidad-Relacion.md"
+                "file": "SENA/Carlos/Biblografía.md"
               }
             }
           }
@@ -156,17 +158,20 @@
   },
   "active": "e6567df8181a4605",
   "lastOpenFiles": [
-    "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
     "SENA/Pendientes.md",
+    "SENA/Carlos/Biblografía.md",
+    "Asupro/General.md",
+    "SENA/Carlos",
+    "SENA/Untitled.md",
+    "Excalidraw/Modelo Entidad-Relacion.md",
+    "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
     "SQL Course/Recursos y extensiones.md",
     "SQL Course/2. Sentencias DML.md",
     "SQL Course/1. Sentencias DDL.md",
     "SQL Course/0. Entorno.md",
     "SQL Course",
     "Laravel/Return unauthorized.md",
-    "Excalidraw/Modelo Entidad-Relacion.md",
     "CV.pdf",
-    "Asupro/General.md",
     "Asupro",
     "Laravel/Cors.md",
     "Laravel/Notes Laravel.md",
@@ -188,9 +193,6 @@
     "AJAXs.md",
     "Work/Facturación Electronica - Sección impuestos 1.md",
     "Excalidraw/Bases de datos/Modelo Entidad-Relacion.md",
-    "Excalidraw/Bases de datos/Ejercicio Modelo Entidad-Relacion.md",
-    "SENA/Bases de datos/2. Sentencias DML.md",
-    "Excalidraw",
-    "Books/El Kybalion.pdf"
+    "Excalidraw"
   ]
 }
