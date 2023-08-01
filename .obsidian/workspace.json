@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b86cc3598ac3003",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SENA/Carlos/Biblografía.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +169,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e6567df8181a4605",
+  "active": "2b86cc3598ac3003",
   "lastOpenFiles": [
     "SENA/Pendientes.md",
     "SENA/Carlos/Biblografía.md",
