@@ -7,3 +7,6 @@
 - https://mexico.unir.net/ingenieria/noticias/ingenieria-de-software-que-es-objetivos/
 - https://www.postgradounab.cl/noticias/que-son-las-ciencias-de-la-computacion/
 - https://www.uvg.edu.mx/blog/index.php/que-hace-un-ingeniero-en-sistemas
+
+Link: excalidraw
+https://excalidraw.com/#json=r5pB2JjO-yfFxX22MWXcp,aRqm-YXTBRZ7bdSTyq8Z3g
