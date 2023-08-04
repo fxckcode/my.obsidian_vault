@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "eefe99543e2d14ce",
+    "id": "f50b2d77fc639a79",
     "type": "split",
     "children": [
       {
-        "id": "373b75537b67b5b0",
+        "id": "a7254e0cd119dbb1",
         "type": "tabs",
         "children": [
           {
-            "id": "e6567df8181a4605",
+            "id": "f5d97b15ffd49cfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SENA/Carlos/Biblografía.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b86cc3598ac3003",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SENA/Carlos/Biblografía.md",
+                "file": "Work/Agregar y actualizar datos clientes FE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4f7578720ba080ae",
+    "id": "70b2faf2943b13f4",
     "type": "split",
     "children": [
       {
-        "id": "66563de36d615292",
+        "id": "27c4f2fa98d91403",
         "type": "tabs",
         "children": [
           {
-            "id": "0e89b11d6b6e07ca",
+            "id": "c2d797b38134a54f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "43de47a18cdb4156",
+            "id": "de0b17abaa1d60ac",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "04b321f7adef444b",
+            "id": "fabd0b588502fa33",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -79,7 +66,7 @@
             }
           },
           {
-            "id": "b9b0db0d77290a6f",
+            "id": "a0d321b0ca41e7f2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -90,23 +77,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "6d6e1ea599c93930",
+    "id": "802188035ccc029b",
     "type": "split",
     "children": [
       {
-        "id": "235197e0bdca46fa",
+        "id": "79eb7377ced16b6f",
         "type": "tabs",
         "children": [
           {
-            "id": "761bbb318df6d582",
+            "id": "95cbbf2483142750",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SENA/Carlos/Biblografía.md",
+                "file": "Work/Agregar y actualizar datos clientes FE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,19 +106,19 @@
             }
           },
           {
-            "id": "8f71fd41c632dc6f",
+            "id": "5ad340f221461330",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SENA/Carlos/Biblografía.md",
+                "file": "Work/Agregar y actualizar datos clientes FE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0394c5931b5ca8b9",
+            "id": "58cdac50268727ee",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,12 +129,12 @@
             }
           },
           {
-            "id": "10ac5558543a2612",
+            "id": "428da30ab3f23842",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "SENA/Carlos/Biblografía.md"
+                "file": "Work/Agregar y actualizar datos clientes FE.md"
               }
             }
           }
@@ -159,53 +147,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2b86cc3598ac3003",
+  "active": "f5d97b15ffd49cfb",
   "lastOpenFiles": [
-    "SENA/Pendientes.md",
+    "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
+    "Work/Agregar y actualizar datos clientes FE.md",
+    "Laravel/Auth Controller.md",
+    "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
     "SENA/Carlos/Biblografía.md",
-    "Asupro/General.md",
     "SENA/Carlos",
-    "SENA/Untitled.md",
-    "Excalidraw/Modelo Entidad-Relacion.md",
-    "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
-    "SQL Course/Recursos y extensiones.md",
-    "SQL Course/2. Sentencias DML.md",
-    "SQL Course/1. Sentencias DDL.md",
-    "SQL Course/0. Entorno.md",
-    "SQL Course",
-    "Laravel/Return unauthorized.md",
-    "CV.pdf",
+    "Asupro/General.md",
     "Asupro",
     "Laravel/Cors.md",
     "Laravel/Notes Laravel.md",
-    "Python/2. Programación orientada a objetos (POO).md",
-    "React/NOTES.md",
-    "React/Auth.md",
-    "Files",
-    "Work/AJAXs.md",
-    "Excalidraw/Bases de datos",
-    "SENA/Bases de datos",
-    "SENA",
-    "PHP/A Tener en Cuenta.md",
-    "Laravel/Auth Controller.md",
-    "Files/CV.pdf",
-    "Facturación Electronica - Sección impuestos.md",
-    "PARA INSTALAR COD - LEER.md",
-    "CV.md",
+    "Laravel/Return unauthorized.md",
+    "Excalidraw/Modelo Entidad-Relacion.md",
+    "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
     "Work/Facturación Electronica - Sección impuestos.md",
+    "Work/Codigo Comentado.md",
+    "Facturación Electronica - Sección impuestos.md",
+    "CV.md",
     "AJAXs.md",
     "Work/Facturación Electronica - Sección impuestos 1.md",
+    "Work/AJAXs.md",
+    "React/Auth.md",
+    "SENA/Pendientes.md",
+    "SENA/Bases de datos/Recursos y extensiones.md",
+    "SENA/Bases de datos/2. Sentencias DML.md",
+    "SENA/Bases de datos/1. Sentencias DDL.md",
+    "SENA/Bases de datos/0. Entorno.md",
+    "SENA/Bases de datos",
+    "SENA",
+    "Files/CV.pdf",
+    "Files",
     "Excalidraw/Bases de datos/Modelo Entidad-Relacion.md",
-    "Excalidraw"
+    "Excalidraw/Bases de datos/Ejercicio Modelo Entidad-Relacion.md",
+    "Excalidraw/Bases de datos",
+    "Excalidraw",
+    "tabsItems.blade.php",
+    "React"
   ]
 }
