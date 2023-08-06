@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Agregar y actualizar datos clientes FE.md",
+                "file": "Asupro/General.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "802188035ccc029b",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Agregar y actualizar datos clientes FE.md",
+                "file": "Asupro/General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Agregar y actualizar datos clientes FE.md",
+                "file": "Asupro/General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Agregar y actualizar datos clientes FE.md"
+                "file": "Asupro/General.md"
               }
             }
           }
@@ -159,16 +158,13 @@
   },
   "active": "f5d97b15ffd49cfb",
   "lastOpenFiles": [
-    "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
-    "Work/Agregar y actualizar datos clientes FE.md",
-    "Laravel/Auth Controller.md",
-    "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
     "SENA/Carlos/Biblografía.md",
-    "SENA/Carlos",
     "Asupro/General.md",
+    "Work/Agregar y actualizar datos clientes FE.md",
+    "SENA/Carlos",
+    "SENA\\Carlos",
+    "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
     "Asupro",
-    "Laravel/Cors.md",
-    "Laravel/Notes Laravel.md",
     "Laravel/Return unauthorized.md",
     "Excalidraw/Modelo Entidad-Relacion.md",
     "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
@@ -193,7 +189,10 @@
     "Excalidraw/Bases de datos/Ejercicio Modelo Entidad-Relacion.md",
     "Excalidraw/Bases de datos",
     "Excalidraw",
+    "Laravel/Notes Laravel.md",
+    "Laravel/Horarios SENA APP/Relacion de tabla - TODO.md",
+    "PARA INSTALAR COD - LEER.md",
     "tabsItems.blade.php",
-    "React"
+    "React/NOTES.md"
   ]
 }
