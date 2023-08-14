@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "373b75537b67b5b0",
+        "id": "30d2b68386c52efb",
         "type": "tabs",
         "children": [
           {
-            "id": "2b86cc3598ac3003",
+            "id": "53e28ead41325f58",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,25 +156,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2b86cc3598ac3003",
+  "active": "53e28ead41325f58",
   "lastOpenFiles": [
-    "Pasted image 20230814154818.png",
-    "Pasted image 20230814154603.png",
-    "Pasted image 20230814153944.png",
+    "Diagrama1 1.dia",
+    "Diagrama1.dia",
+    "SENA/Bases de datos/Diagrama1.dia",
+    "Pasted image 20230814160038.png",
+    "Pasted image 20230814155358.png.md",
+    "SENA/Bases de datos/Trabajo.md",
+    "SQL Course/Recursos y extensiones.md",
+    "Pasted image 20230814155949.png",
     "Pasted image 20230814153404.png",
-    "Pasted image 20230814145230.png",
-    "Pasted image 20230814143934.png",
+    "Pasted image 20230814153944.png",
+    "Pasted image 20230814154818.png",
+    "Pasted image 20230814155358.png",
+    "SENA/Bases de datos/Recursos y extensiones.md",
     "Excalidraw/Modelo Entidad-Relacion.md",
     "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
-    "SENA/Bases de datos/Trabajo.md",
-    "SENA/Carlos/Biblografía.md",
-    "Pasted image 20230814142510.png",
+    "Excalidraw/Bases de datos/Ejercicio Modelo Entidad-Relacion.md",
+    "Excalidraw/Bases de datos/Modelo Entidad-Relacion.md",
     "Asupro/General.md",
+    "Pasted image 20230814154603.png",
+    "Pasted image 20230814145230.png",
+    "Pasted image 20230814143934.png",
+    "Pasted image 20230814142510.png",
+    "SENA/Carlos/Biblografía.md",
     "Work/Agregar y actualizar datos clientes FE.md",
     "SENA/Pendientes.md",
     "SENA/Carlos",
     "SENA/Untitled.md",
-    "SQL Course/Recursos y extensiones.md",
     "SQL Course/2. Sentencias DML.md",
     "SQL Course/1. Sentencias DDL.md",
     "SQL Course/0. Entorno.md",
@@ -193,12 +203,6 @@
     "SENA/Bases de datos",
     "SENA",
     "PHP/A Tener en Cuenta.md",
-    "Laravel/Auth Controller.md",
-    "Files/CV.pdf",
-    "Facturación Electronica - Sección impuestos.md",
-    "PARA INSTALAR COD - LEER.md",
-    "CV.md",
-    "Work/Facturación Electronica - Sección impuestos.md",
-    "Excalidraw"
+    "Laravel/Auth Controller.md"
   ]
 }
