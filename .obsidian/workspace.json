@@ -11,11 +11,9 @@
             "id": "5c5e95dfe3482a9a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "SENA/Bases de datos/Trabajo.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20230815132540.png"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SENA/Bases de datos/Trabajo.md",
+                "file": "Pasted image 20230815132540.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SENA/Bases de datos/Trabajo.md",
+                "file": "Pasted image 20230815132540.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SENA/Bases de datos/Trabajo.md"
+                "file": "Pasted image 20230815132540.png"
               }
             }
           }
@@ -158,33 +156,33 @@
   },
   "active": "5c5e95dfe3482a9a",
   "lastOpenFiles": [
+    "Pasted image 20230815132219.png",
+    "Pasted image 20230815132005.png",
+    "Pasted image 20230814155949.png.md",
+    "Pasted image 20230814153944.png",
+    "Pasted image 20230814153404.png",
+    "SENA/Bases de datos/Trabajo.md",
+    "Pasted image 20230815135331.png",
+    "Pasted image 20230815133559.png",
     "__diaSSTP91",
     "Diagrama1 1.dia~",
     "__diaH0GK91",
     "Pasted image 20230815132540.png",
-    "Pasted image 20230815132219.png",
     "Diagrama1 1.dia.autosave",
-    "Pasted image 20230815132005.png",
-    "Pasted image 20230814155949.png.md",
-    "SENA/Bases de datos/Trabajo.md",
-    "Pasted image 20230814153944.png",
     "Pasted image 20230814160038.png",
     "Pasted image 20230814155949.png",
     "Pasted image 20230814155358.png.md",
-    "Pasted image 20230814153404.png",
     "Diagrama1 1.dia",
     "Diagrama1.dia",
     "SENA/Bases de datos/Diagrama1.dia",
     "SQL Course/Recursos y extensiones.md",
     "Pasted image 20230814154818.png",
-    "Pasted image 20230814155358.png",
     "SENA/Bases de datos/Recursos y extensiones.md",
     "Excalidraw/Modelo Entidad-Relacion.md",
     "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
     "Excalidraw/Bases de datos/Ejercicio Modelo Entidad-Relacion.md",
     "Excalidraw/Bases de datos/Modelo Entidad-Relacion.md",
     "Asupro/General.md",
-    "Pasted image 20230814154603.png",
     "SENA/Carlos/Biblografía.md",
     "Work/Agregar y actualizar datos clientes FE.md",
     "SENA/Pendientes.md",
@@ -196,7 +194,6 @@
     "SQL Course",
     "Laravel/Return unauthorized.md",
     "CV.pdf",
-    "Asupro",
     "Laravel/Cors.md",
     "Laravel/Notes Laravel.md",
     "Python/2. Programación orientada a objetos (POO).md",
