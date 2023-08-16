@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Depurar Codigo.md",
+                "file": "Work/Depurar Código.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Depurar Codigo.md",
+                "file": "Work/Depurar Código.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Depurar Codigo.md",
+                "file": "Work/Depurar Código.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Depurar Codigo.md"
+                "file": "Work/Depurar Código.md"
               }
             }
           }
@@ -159,7 +159,7 @@
   "active": "f5d97b15ffd49cfb",
   "lastOpenFiles": [
     "SQL Course/0. Entorno.md",
-    "Work/Depurar Codigo.md",
+    "Work/Depurar Código.md",
     "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
     "Work/Untitled",
     "Work/Agregar y actualizar datos clientes FE.md",
