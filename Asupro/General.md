@@ -23,3 +23,7 @@
 - Facturación (Generar facturas)
 - Descuento de stok
 - Rango de precios
+
+# Ideas FronTend:
+https://github.com/iamVihanga/React_Tailwind_EcommerceAdmin_Dashboard
+https://github.com/devhasibulislam/ciseco-ecommerce
