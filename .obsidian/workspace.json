@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Auth.md",
+                "file": "Laravel/Cors.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "802188035ccc029b",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Auth.md",
+                "file": "Laravel/Cors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Auth.md",
+                "file": "Laravel/Cors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Auth.md"
+                "file": "Laravel/Cors.md"
               }
             }
           }
@@ -159,21 +158,43 @@
   },
   "active": "756ae00e6f996d5e",
   "lastOpenFiles": [
+    "SENA/Bases de datos/Trabajo.md",
+    "Pasted image 20230820185744.png",
+    "Pasted image 20230820183414.png",
+    "Pasted image 20230820183232.png",
+    "Pasted image 20230820160332.png",
+    "Pasted image 20230820154528.png",
+    "Pasted image 20230820152420.png",
+    "Pasted image 20230820144733.png",
+    "Pasted image 20230814153404.png",
+    "Pasted image 20230820142658.png",
+    "Pasted image 20230820130145.png",
+    "Pasted image 20230814155949.png.md",
+    "Excalidraw/Modelo Entidad-Relacion.md",
+    "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
+    "SENA/Carlos/Biblografia.md",
+    "Work/Depurar Código.md",
+    "SENA/Carlos/Biblografía.md",
+    "SENA\\Carlos",
+    "SENA/Bases de datos/Diagrama1.dia",
+    "SENA\\Bases de datos",
+    "Diagrama2.dia",
+    "Diagrama1.dia",
+    "Diagrama1 1.dia~",
+    "Diagrama1 1.dia",
+    "SENA/Pendientes.md",
+    "SENA/Bases de datos/Recursos y extensiones.md",
+    "React/Auth.md",
     "React/NOTES.md",
     "Asupro/General.md",
-    "SENA/Carlos/Biblografia.md",
     "SENA/Carlos",
     "SENA/Untitled.md",
     "SENA/Bases de datos/0. Entorno.md",
-    "SENA/Carlos/Biblografía.md",
     "Work/Agregar y actualizar datos clientes FE.md",
     "SENA/Carlos",
-    "SENA\\Carlos",
     "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
     "Asupro",
     "Laravel/Return unauthorized.md",
-    "Excalidraw/Modelo Entidad-Relacion.md",
-    "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
     "Work/Facturación Electronica - Sección impuestos.md",
     "Work/Codigo Comentado.md",
     "Facturación Electronica - Sección impuestos.md",
@@ -181,19 +202,6 @@
     "AJAXs.md",
     "Work/Facturación Electronica - Sección impuestos 1.md",
     "Work/AJAXs.md",
-    "React/Auth.md",
-    "SENA/Pendientes.md",
-    "SENA/Bases de datos/Recursos y extensiones.md",
-    "SENA/Bases de datos/2. Sentencias DML.md",
-    "SENA/Bases de datos/1. Sentencias DDL.md",
-    "SENA/Bases de datos",
-    "SENA",
-    "Files/CV.pdf",
-    "Files",
-    "Excalidraw/Bases de datos/Modelo Entidad-Relacion.md",
-    "Excalidraw/Bases de datos/Ejercicio Modelo Entidad-Relacion.md",
-    "Excalidraw/Bases de datos",
-    "Excalidraw",
-    "Laravel/Notes Laravel.md"
+    "SENA/Bases de datos/2. Sentencias DML.md"
   ]
 }
