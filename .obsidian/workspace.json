@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ca34294d57ed86d4",
+        "id": "2af7b82df7bed7f6",
         "type": "tabs",
         "children": [
           {
-            "id": "756ae00e6f996d5e",
+            "id": "3c07b4a2db764e58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "video",
               "state": {
-                "file": "Laravel/Cors.md",
-                "mode": "source",
-                "source": false
+                "file": "Clase Laravel/img/2023-08-24 23-41-42.mkv"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel/Cors.md",
+                "file": "Clase Laravel/img/2023-08-24 23-41-42.mkv",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel/Cors.md",
+                "file": "Clase Laravel/img/2023-08-24 23-41-42.mkv",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel/Cors.md"
+                "file": "Clase Laravel/img/2023-08-24 23-41-42.mkv"
               }
             }
           }
@@ -156,20 +154,29 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "756ae00e6f996d5e",
+  "active": "3c07b4a2db764e58",
   "lastOpenFiles": [
+    "Clase Laravel/Desarrollo de la prueba.md",
+    "Clase Laravel/img/2023-08-24 23-56-37.mkv",
+    "Clase Laravel/img/2023-08-24 23-41-42.mkv",
+    "Clase Laravel/img",
+    "Clase Laravel/img/Pasted image 20230824231209.png",
+    "Clase Laravel/Modelo MVC con Laravel.md",
+    "Clase Laravel/Introducción.md",
+    "Clase Laravel/img/Pasted image 20230824230512.png",
+    "Laravel/Cors.md",
+    "Pasted image 20230820152420.png",
+    "Pasted image 20230820144733.png",
+    "Pasted image 20230814155949.png.md",
+    "Pasted image 20230814153944.png",
+    "Pasted image 20230814153404.png",
+    "Clase Laravel",
+    "SENA\\Bases de datos",
     "SENA/Bases de datos/Trabajo.md",
     "Pasted image 20230820185744.png",
     "Pasted image 20230820183414.png",
     "Pasted image 20230820183232.png",
     "Pasted image 20230820160332.png",
-    "Pasted image 20230820154528.png",
-    "Pasted image 20230820152420.png",
-    "Pasted image 20230820144733.png",
-    "Pasted image 20230814153404.png",
-    "Pasted image 20230820142658.png",
-    "Pasted image 20230820130145.png",
-    "Pasted image 20230814155949.png.md",
     "Excalidraw/Modelo Entidad-Relacion.md",
     "Excalidraw/Ejercicio Modelo Entidad-Relacion.md",
     "SENA/Carlos/Biblografia.md",
@@ -177,31 +184,22 @@
     "SENA/Carlos/Biblografía.md",
     "SENA\\Carlos",
     "SENA/Bases de datos/Diagrama1.dia",
-    "SENA\\Bases de datos",
     "Diagrama2.dia",
     "Diagrama1.dia",
     "Diagrama1 1.dia~",
-    "Diagrama1 1.dia",
     "SENA/Pendientes.md",
     "SENA/Bases de datos/Recursos y extensiones.md",
     "React/Auth.md",
     "React/NOTES.md",
     "Asupro/General.md",
-    "SENA/Carlos",
     "SENA/Untitled.md",
     "SENA/Bases de datos/0. Entorno.md",
     "Work/Agregar y actualizar datos clientes FE.md",
-    "SENA/Carlos",
     "Work/Agregar y modificar datos de empresa Facturación electrónica.md",
-    "Asupro",
     "Laravel/Return unauthorized.md",
     "Work/Facturación Electronica - Sección impuestos.md",
     "Work/Codigo Comentado.md",
     "Facturación Electronica - Sección impuestos.md",
-    "CV.md",
-    "AJAXs.md",
-    "Work/Facturación Electronica - Sección impuestos 1.md",
-    "Work/AJAXs.md",
-    "SENA/Bases de datos/2. Sentencias DML.md"
+    "CV.md"
   ]
 }
